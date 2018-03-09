@@ -2,7 +2,7 @@
   <defs>
     <style>
       .cls-1 {
-        clip-path: url(#clip-Step_2_-_1);
+        clip-path: url(#clip-Step_2);
       }
 
       .cls-15, .cls-2, .cls-9 {
@@ -103,11 +103,11 @@
       <feComposite operator="in" in2="blur-2"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <clipPath id="clip-Step_2_-_1">
+    <clipPath id="clip-Step_2">
       <rect x="440" width="360" height="640"/>
     </clipPath>
   </defs>
-  <g id="Step_2_-_1" data-name="Step 2 - 1" class="cls-1">
+  <g id="Step_2" data-name="Step 2" class="cls-1">
     <rect class="cls-18" x="440" width="360" height="640"/>
     <text id="Sync_ratings" data-name="Sync ratings" class="cls-2" transform="translate(534 135)"><tspan x="0" y="0">Sync ratings</tspan></text>
     <g id="sysbar_dark" transform="translate(440)">

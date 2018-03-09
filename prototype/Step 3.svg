@@ -6,7 +6,7 @@
       }
 
       .cls-2 {
-        clip-path: url(#clip-Step_3_1);
+        clip-path: url(#clip-Step_3);
       }
 
       .cls-12, .cls-3, .cls-4 {
@@ -114,11 +114,11 @@
     <clipPath id="clip-path">
       <circle id="Ellipse_15" data-name="Ellipse 15" class="cls-1" cx="62.191" cy="62.191" r="62.191"/>
     </clipPath>
-    <clipPath id="clip-Step_3_1">
+    <clipPath id="clip-Step_3">
       <rect x="880" width="360" height="640"/>
     </clipPath>
   </defs>
-  <g id="Step_3_1" data-name="Step 3 – 1" class="cls-2">
+  <g id="Step_3" data-name="Step 3" class="cls-2">
     <rect class="cls-20" x="880" width="360" height="640"/>
     <text id="Detect_mood" data-name="Detect mood" class="cls-3" transform="translate(970 135)"><tspan x="0" y="0">Detect mood</tspan></text>
     <text id="Connect_Spotify_or_Last.fm_to_detect_your_mood_based_on_recent_music_playings." data-name="Connect Spotify or Last.fm to detect your mood based on recent music playings." class="cls-4" transform="translate(933 400)"><tspan x="0" y="16">Connect Spotify or Last.fm to </tspan><tspan x="0" y="36">detect your mood based on recent </tspan><tspan x="0" y="56">music playings.</tspan></text>

@@ -18,7 +18,7 @@
       }
 
       .cls-4 {
-        clip-path: url(#clip-New_main_page);
+        clip-path: url(#clip-Main_page);
       }
 
       .cls-38, .cls-5 {
@@ -622,11 +622,11 @@
       <feComposite operator="in" in2="blur-25"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <clipPath id="clip-New_main_page">
+    <clipPath id="clip-Main_page">
       <rect x="1320" width="360" height="1495"/>
     </clipPath>
   </defs>
-  <g id="New_main_page" data-name="New main page" class="cls-4">
+  <g id="Main_page" data-name="Main page" class="cls-4">
     <rect class="cls-13" x="1320" width="360" height="1495"/>
     <g id="appbar_dark" transform="translate(1320)">
       <path id="path" class="cls-5" d="M360,0H0V180H360Z"/>
