@@ -9,7 +9,7 @@
         clip-path: url(#clip-Triple_search);
       }
 
-      .cls-3, .cls-41 {
+      .cls-3, .cls-40 {
         fill: #673ab7;
       }
 
@@ -17,7 +17,7 @@
         fill-rule: evenodd;
       }
 
-      .cls-23, .cls-24, .cls-28, .cls-38, .cls-4, .cls-44, .cls-5, .cls-55, .cls-8 {
+      .cls-23, .cls-24, .cls-28, .cls-4, .cls-43, .cls-5, .cls-54, .cls-8 {
         fill: #fff;
       }
 
@@ -25,11 +25,11 @@
         font-size: 20px;
       }
 
-      .cls-26, .cls-28, .cls-4, .cls-44, .cls-55 {
+      .cls-26, .cls-28, .cls-4, .cls-43, .cls-54, .cls-55 {
         font-family: Circular-Medium, Circular;
       }
 
-      .cls-23, .cls-26, .cls-28, .cls-4, .cls-44, .cls-55 {
+      .cls-23, .cls-26, .cls-28, .cls-4, .cls-43, .cls-54, .cls-55 {
         font-weight: 500;
       }
 
@@ -50,7 +50,7 @@
         fill: #fafafa;
       }
 
-      .cls-12, .cls-52 {
+      .cls-12, .cls-51 {
         opacity: 0.12;
       }
 
@@ -70,7 +70,7 @@
         fill: url(#linear-gradient-2);
       }
 
-      .cls-16 {
+      .cls-16, .cls-37 {
         opacity: 0.54;
       }
 
@@ -110,9 +110,15 @@
         fill: rgba(0,0,0,0);
       }
 
-      .cls-26 {
+      .cls-26, .cls-37, .cls-55 {
         fill: rgba(0,0,0,0.87);
+      }
+
+      .cls-26, .cls-55 {
         font-size: 22px;
+      }
+
+      .cls-26 {
         opacity: 0.93;
       }
 
@@ -144,7 +150,7 @@
         fill: url(#pattern-13);
       }
 
-      .cls-35, .cls-44 {
+      .cls-35, .cls-43 {
         font-size: 12px;
       }
 
@@ -154,67 +160,67 @@
       }
 
       .cls-36 {
-        clip-path: url(#clip-path-2);
-      }
-
-      .cls-37, .cls-38 {
         opacity: 0.81;
       }
 
-      .cls-39 {
+      .cls-38 {
         fill: url(#pattern-18);
       }
 
-      .cls-40 {
+      .cls-39 {
         fill: url(#pattern-20);
       }
 
-      .cls-42 {
-        clip-path: url(#clip-path-3);
+      .cls-41 {
+        clip-path: url(#clip-path-2);
       }
 
-      .cls-43 {
+      .cls-42 {
         fill: url(#pattern-23);
       }
 
-      .cls-45 {
+      .cls-44 {
         fill: url(#pattern-24);
       }
 
-      .cls-46 {
+      .cls-45 {
         fill: url(#pattern-26);
       }
 
-      .cls-47 {
+      .cls-46 {
         fill: url(#pattern-27);
       }
 
-      .cls-48 {
+      .cls-47 {
         fill: url(#pattern-29);
       }
 
-      .cls-49 {
+      .cls-48 {
         fill: url(#pattern-32);
       }
 
-      .cls-50 {
+      .cls-49 {
         fill: url(#pattern-33);
       }
 
-      .cls-51 {
+      .cls-50 {
         fill: url(#pattern-34);
       }
 
-      .cls-53 {
+      .cls-52 {
         fill: url(#linear-gradient-3);
       }
 
-      .cls-54 {
+      .cls-53 {
         fill: url(#linear-gradient-4);
       }
 
-      .cls-55 {
+      .cls-54 {
         font-size: 10px;
+      }
+
+      .cls-55 {
+        opacity: 0.87;
       }
 
       .cls-56 {
@@ -364,9 +370,6 @@
       <feComposite operator="in" in2="blur-6"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <clipPath id="clip-path-2">
-      <rect class="cls-1" width="434" height="224"/>
-    </clipPath>
     <filter id="Path_120" x="3061.5" y="183.5" width="131" height="233" filterUnits="userSpaceOnUse">
       <feOffset dy="1" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="1.5" result="blur-7"/>
@@ -422,7 +425,7 @@
       <feComposite operator="in" in2="blur-13"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <clipPath id="clip-path-3">
+    <clipPath id="clip-path-2">
       <rect class="cls-1" width="55" height="50"/>
     </clipPath>
     <pattern id="pattern-23" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 160 160">
@@ -616,215 +619,213 @@
     </g>
     <g id="Search-2" data-name="Search" transform="translate(2618 -179)">
       <g class="cls-64" transform="matrix(1, 0, 0, 1, -2618, 179)">
-        <rect id="rectangle-6" data-name="rectangle" class="cls-8" width="359.632" height="298" rx="2" transform="translate(3050 142)"/>
+        <rect id="rectangle-6" data-name="rectangle" class="cls-11" width="359.632" height="298" rx="2" transform="translate(3050 142)"/>
       </g>
-      <g id="Movie" class="cls-36" transform="translate(448 366)">
-        <g id="Movie-2" data-name="Movie" transform="translate(-12.453 6.579)">
-          <g class="cls-63" transform="matrix(1, 0, 0, 1, -3053.55, -193.58)">
-            <path id="Path_120-4" data-name="Path 120" class="cls-21" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(3066 187)"/>
+      <g id="Movie" transform="translate(435.547 372.579)">
+        <g class="cls-63" transform="matrix(1, 0, 0, 1, -3053.55, -193.58)">
+          <path id="Path_120-4" data-name="Path 120" class="cls-8" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(3066 187)"/>
+        </g>
+        <g class="cls-62" transform="matrix(1, 0, 0, 1, -3053.55, -193.58)">
+          <path id="Shape_of_water-12" data-name="Shape of water" class="cls-27" d="M0,0H122V179.648H0Z" transform="translate(3066 187)"/>
+        </g>
+        <g id="Rating-5" data-name="Rating" transform="translate(115.453 153.421)">
+          <circle id="Ellipse_19-5" data-name="Ellipse 19" class="cls-17" cx="15" cy="15" r="15"/>
+          <text id="_7.6-2" data-name="7.6" class="cls-28" transform="translate(7 20)"><tspan x="0" y="0">7.6</tspan></text>
+        </g>
+        <g id="Group_353" data-name="Group 353" transform="translate(-655.547 -351.579)">
+          <g id="ic_visibility_white_48px" class="cls-36" transform="translate(761 537)">
+            <path id="Path_118" data-name="Path 118" class="cls-1" d="M0,0H24V24H0Z"/>
+            <path id="Path_119" data-name="Path 119" class="cls-37" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
           </g>
-          <g class="cls-62" transform="matrix(1, 0, 0, 1, -3053.55, -193.58)">
-            <path id="Shape_of_water-12" data-name="Shape of water" class="cls-27" d="M0,0H122V179.648H0Z" transform="translate(3066 187)"/>
+          <g id="ic_turned_in_white_48px" transform="translate(733 537)">
+            <path id="Path_124" data-name="Path 124" class="cls-37" d="M18.895,3H7.316a2.38,2.38,0,0,0-2.3,2.444L5,25l8.105-3.667L21.211,25V5.444A2.39,2.39,0,0,0,18.895,3Z" transform="translate(-1 -2)"/>
+            <path id="Path_125" data-name="Path 125" class="cls-1" d="M0,0H24V24H0Z"/>
           </g>
-          <g id="Rating-5" data-name="Rating" transform="translate(115.453 153.421)">
-            <circle id="Ellipse_19-5" data-name="Ellipse 19" class="cls-17" cx="15" cy="15" r="15"/>
-            <text id="_7.6-2" data-name="7.6" class="cls-28" transform="translate(7 20)"><tspan x="0" y="0">7.6</tspan></text>
-          </g>
-          <g id="Group_353" data-name="Group 353" transform="translate(-655.547 -351.579)">
-            <g id="ic_visibility_white_48px" class="cls-37" transform="translate(761 537)">
-              <path id="Path_118" data-name="Path 118" class="cls-1" d="M0,0H24V24H0Z"/>
-              <path id="Path_119" data-name="Path 119" class="cls-8" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
-            </g>
-            <g id="ic_turned_in_white_48px" transform="translate(733 537)">
-              <path id="Path_124" data-name="Path 124" class="cls-38" d="M18.895,3H7.316a2.38,2.38,0,0,0-2.3,2.444L5,25l8.105-3.667L21.211,25V5.444A2.39,2.39,0,0,0,18.895,3Z" transform="translate(-1 -2)"/>
-              <path id="Path_125" data-name="Path 125" class="cls-1" d="M0,0H24V24H0Z"/>
-            </g>
-            <g id="Emotions" transform="translate(674 534)">
-              <path id="funny-5" data-name="funny" class="cls-20" d="M0,0H24V24H0Z" transform="translate(33 3)"/>
-              <path id="funny-6" data-name="funny" class="cls-29" d="M0,0H30V30H0Z" transform="translate(-1)"/>
-            </g>
+          <g id="Emotions" transform="translate(674 534)">
+            <path id="funny-5" data-name="funny" class="cls-20" d="M0,0H24V24H0Z" transform="translate(33 3)"/>
+            <path id="funny-6" data-name="funny" class="cls-29" d="M0,0H30V30H0Z" transform="translate(-1)"/>
           </g>
         </g>
-        <g id="Movie-3" data-name="Movie" transform="translate(136.547 6.579)">
-          <g class="cls-61" transform="matrix(1, 0, 0, 1, -3202.55, -193.58)">
-            <path id="Path_120-5" data-name="Path 120" class="cls-21" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(3215 187)"/>
+      </g>
+      <g id="Movie-2" data-name="Movie" transform="translate(584.547 372.579)">
+        <g class="cls-61" transform="matrix(1, 0, 0, 1, -3202.55, -193.58)">
+          <path id="Path_120-5" data-name="Path 120" class="cls-8" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(3215 187)"/>
+        </g>
+        <g class="cls-60" transform="matrix(1, 0, 0, 1, -3202.55, -193.58)">
+          <path id="Shape_of_water-13" data-name="Shape of water" class="cls-30" d="M0,0H122V179.648H0Z" transform="translate(3215 187)"/>
+        </g>
+        <g id="Rating-6" data-name="Rating" transform="translate(115.453 153.421)">
+          <circle id="Ellipse_19-6" data-name="Ellipse 19" class="cls-17" cx="15" cy="15" r="15"/>
+          <text id="_7.8-2" data-name="7.8" class="cls-28" transform="translate(7 20)"><tspan x="0" y="0">7.8</tspan></text>
+        </g>
+        <g id="Group_353-2" data-name="Group 353" transform="translate(-655.547 -351.579)">
+          <g id="ic_visibility_white_48px-2" data-name="ic_visibility_white_48px" class="cls-36" transform="translate(761 537)">
+            <path id="Path_118-2" data-name="Path 118" class="cls-1" d="M0,0H24V24H0Z"/>
+            <path id="Path_119-2" data-name="Path 119" class="cls-37" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
           </g>
-          <g class="cls-60" transform="matrix(1, 0, 0, 1, -3202.55, -193.58)">
-            <path id="Shape_of_water-13" data-name="Shape of water" class="cls-30" d="M0,0H122V179.648H0Z" transform="translate(3215 187)"/>
+          <g id="ic_turned_in_white_48px-2" data-name="ic_turned_in_white_48px" transform="translate(733 537)">
+            <path id="Path_124-2" data-name="Path 124" class="cls-37" d="M18.895,3H7.316a2.38,2.38,0,0,0-2.3,2.444L5,25l8.105-3.667L21.211,25V5.444A2.39,2.39,0,0,0,18.895,3Z" transform="translate(-1 -2)"/>
+            <path id="Path_125-2" data-name="Path 125" class="cls-1" d="M0,0H24V24H0Z"/>
           </g>
-          <g id="Rating-6" data-name="Rating" transform="translate(115.453 153.421)">
-            <circle id="Ellipse_19-6" data-name="Ellipse 19" class="cls-17" cx="15" cy="15" r="15"/>
-            <text id="_7.8-2" data-name="7.8" class="cls-28" transform="translate(7 20)"><tspan x="0" y="0">7.8</tspan></text>
-          </g>
-          <g id="Group_353-2" data-name="Group 353" transform="translate(-655.547 -351.579)">
-            <g id="ic_visibility_white_48px-2" data-name="ic_visibility_white_48px" class="cls-37" transform="translate(761 537)">
-              <path id="Path_118-2" data-name="Path 118" class="cls-1" d="M0,0H24V24H0Z"/>
-              <path id="Path_119-2" data-name="Path 119" class="cls-8" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
-            </g>
-            <g id="ic_turned_in_white_48px-2" data-name="ic_turned_in_white_48px" transform="translate(733 537)">
-              <path id="Path_124-2" data-name="Path 124" class="cls-38" d="M18.895,3H7.316a2.38,2.38,0,0,0-2.3,2.444L5,25l8.105-3.667L21.211,25V5.444A2.39,2.39,0,0,0,18.895,3Z" transform="translate(-1 -2)"/>
-              <path id="Path_125-2" data-name="Path 125" class="cls-1" d="M0,0H24V24H0Z"/>
-            </g>
-            <g id="Emotions-2" data-name="Emotions" transform="translate(674 534)">
-              <path id="funny-7" data-name="funny" class="cls-39" d="M0,0H24V24H0Z" transform="translate(33 3)"/>
-              <path id="funny-8" data-name="funny" class="cls-20" d="M0,0H30V30H0Z" transform="translate(-1)"/>
-            </g>
+          <g id="Emotions-2" data-name="Emotions" transform="translate(674 534)">
+            <path id="funny-7" data-name="funny" class="cls-38" d="M0,0H24V24H0Z" transform="translate(33 3)"/>
+            <path id="funny-8" data-name="funny" class="cls-20" d="M0,0H30V30H0Z" transform="translate(-1)"/>
           </g>
         </g>
-        <g id="Movie-4" data-name="Movie" transform="translate(285.547 6.579)">
-          <g class="cls-59" transform="matrix(1, 0, 0, 1, -3351.55, -193.58)">
-            <path id="Path_120-6" data-name="Path 120" class="cls-21" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(3364 187)"/>
+      </g>
+      <g id="Movie-3" data-name="Movie" transform="translate(733.547 372.579)">
+        <g class="cls-59" transform="matrix(1, 0, 0, 1, -3351.55, -193.58)">
+          <path id="Path_120-6" data-name="Path 120" class="cls-8" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(3364 187)"/>
+        </g>
+        <g class="cls-58" transform="matrix(1, 0, 0, 1, -3351.55, -193.58)">
+          <path id="Shape_of_water-14" data-name="Shape of water" class="cls-39" d="M0,0H122V179.648H0Z" transform="translate(3364 187)"/>
+        </g>
+        <g id="Rating-7" data-name="Rating" transform="translate(115.453 153.421)">
+          <circle id="Ellipse_19-7" data-name="Ellipse 19" class="cls-17" cx="15" cy="15" r="15"/>
+          <text id="_7.6-3" data-name="7.6" class="cls-28" transform="translate(7 20)"><tspan x="0" y="0">7.6</tspan></text>
+        </g>
+        <g id="Group_353-3" data-name="Group 353" transform="translate(-655.547 -351.579)">
+          <g id="ic_visibility_white_48px-3" data-name="ic_visibility_white_48px" class="cls-36" transform="translate(761 537)">
+            <path id="Path_118-3" data-name="Path 118" class="cls-1" d="M0,0H24V24H0Z"/>
+            <path id="Path_119-3" data-name="Path 119" class="cls-37" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
           </g>
-          <g class="cls-58" transform="matrix(1, 0, 0, 1, -3351.55, -193.58)">
-            <path id="Shape_of_water-14" data-name="Shape of water" class="cls-40" d="M0,0H122V179.648H0Z" transform="translate(3364 187)"/>
+          <g id="ic_turned_in_white_48px-3" data-name="ic_turned_in_white_48px" transform="translate(733 537)">
+            <path id="Path_124-3" data-name="Path 124" class="cls-37" d="M18.895,3H7.316a2.38,2.38,0,0,0-2.3,2.444L5,25l8.105-3.667L21.211,25V5.444A2.39,2.39,0,0,0,18.895,3Z" transform="translate(-1 -2)"/>
+            <path id="Path_125-3" data-name="Path 125" class="cls-1" d="M0,0H24V24H0Z"/>
           </g>
-          <g id="Rating-7" data-name="Rating" transform="translate(115.453 153.421)">
-            <circle id="Ellipse_19-7" data-name="Ellipse 19" class="cls-17" cx="15" cy="15" r="15"/>
-            <text id="_7.6-3" data-name="7.6" class="cls-28" transform="translate(7 20)"><tspan x="0" y="0">7.6</tspan></text>
-          </g>
-          <g id="Group_353-3" data-name="Group 353" transform="translate(-655.547 -351.579)">
-            <g id="ic_visibility_white_48px-3" data-name="ic_visibility_white_48px" class="cls-37" transform="translate(761 537)">
-              <path id="Path_118-3" data-name="Path 118" class="cls-1" d="M0,0H24V24H0Z"/>
-              <path id="Path_119-3" data-name="Path 119" class="cls-8" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
-            </g>
-            <g id="ic_turned_in_white_48px-3" data-name="ic_turned_in_white_48px" transform="translate(733 537)">
-              <path id="Path_124-3" data-name="Path 124" class="cls-38" d="M18.895,3H7.316a2.38,2.38,0,0,0-2.3,2.444L5,25l8.105-3.667L21.211,25V5.444A2.39,2.39,0,0,0,18.895,3Z" transform="translate(-1 -2)"/>
-              <path id="Path_125-3" data-name="Path 125" class="cls-1" d="M0,0H24V24H0Z"/>
-            </g>
-            <g id="Emotions-3" data-name="Emotions" transform="translate(674 534)">
-              <path id="funny-9" data-name="funny" class="cls-20" d="M0,0H24V24H0Z" transform="translate(33 3)"/>
-              <path id="funny-10" data-name="funny" class="cls-29" d="M0,0H30V30H0Z" transform="translate(-1)"/>
-            </g>
+          <g id="Emotions-3" data-name="Emotions" transform="translate(674 534)">
+            <path id="funny-9" data-name="funny" class="cls-20" d="M0,0H24V24H0Z" transform="translate(33 3)"/>
+            <path id="funny-10" data-name="funny" class="cls-29" d="M0,0H30V30H0Z" transform="translate(-1)"/>
           </g>
         </g>
       </g>
     </g>
     <g id="toolbar" transform="translate(3050 1)">
       <g class="cls-57" transform="matrix(1, 0, 0, 1, -3050, -1)">
-        <rect id="Emotion_toolbar-2" data-name="Emotion toolbar" class="cls-41" width="360" height="205" transform="translate(3050 435)"/>
+        <rect id="Emotion_toolbar-2" data-name="Emotion toolbar" class="cls-40" width="360" height="205" transform="translate(3050 435)"/>
       </g>
       <g id="Group_340" data-name="Group 340" transform="translate(-2 -118)">
-        <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-11" data-name="funny" class="cls-43" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Teen" class="cls-44" transform="translate(28 631)"><tspan x="0" y="0">Teen</tspan></text>
+        <path id="funny-11" data-name="funny" class="cls-42" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Teen" class="cls-43" transform="translate(28 631)"><tspan x="0" y="0">Teen</tspan></text>
       </g>
       <g id="Group_340-2" data-name="Group 340" transform="translate(69 -118)">
-        <g id="Repeat_Grid_1-2" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-2" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-2" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-12" data-name="funny" class="cls-45" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Touching" class="cls-44" transform="translate(16 631)"><tspan x="0" y="0">Touching</tspan></text>
+        <path id="funny-12" data-name="funny" class="cls-44" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Touching" class="cls-43" transform="translate(16 631)"><tspan x="0" y="0">Touching</tspan></text>
       </g>
       <g id="Group_340-3" data-name="Group 340" transform="translate(140 -118)">
         <rect id="Rectangle_200-3" data-name="Rectangle 200" class="cls-17" width="55" height="50" rx="4" transform="translate(13 586)"/>
         <path id="funny-13" data-name="funny" class="cls-19" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Futuristic" class="cls-44" transform="translate(14 631)"><tspan x="0" y="0">Futuristic</tspan></text>
+        <text id="Futuristic" class="cls-43" transform="translate(14 631)"><tspan x="0" y="0">Futuristic</tspan></text>
       </g>
       <g id="Group_340-4" data-name="Group 340" transform="translate(211 -118)">
-        <g id="Repeat_Grid_1-3" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-3" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-4" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-14" data-name="funny" class="cls-46" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Depressing" class="cls-44" transform="translate(10 631)"><tspan x="0" y="0">Depressing</tspan></text>
+        <path id="funny-14" data-name="funny" class="cls-45" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Depressing" class="cls-43" transform="translate(10 631)"><tspan x="0" y="0">Depressing</tspan></text>
       </g>
       <g id="Group_340-5" data-name="Group 340" transform="translate(282 -118)">
-        <g id="Repeat_Grid_1-4" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-4" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-5" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-15" data-name="funny" class="cls-47" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Gruesome" class="cls-44" transform="translate(12 631)"><tspan x="0" y="0">Gruesome</tspan></text>
+        <path id="funny-15" data-name="funny" class="cls-46" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Gruesome" class="cls-43" transform="translate(12 631)"><tspan x="0" y="0">Gruesome</tspan></text>
       </g>
       <g id="Group_340-6" data-name="Group 340" transform="translate(-2 -60)">
         <rect id="Rectangle_200-6" data-name="Rectangle 200" class="cls-17" width="55" height="50" rx="4" transform="translate(13 586)"/>
         <path id="funny-16" data-name="funny" class="cls-20" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Action" class="cls-44" transform="translate(23 631)"><tspan x="0" y="0">Action</tspan></text>
+        <text id="Action" class="cls-43" transform="translate(23 631)"><tspan x="0" y="0">Action</tspan></text>
       </g>
       <g id="Group_340-7" data-name="Group 340" transform="translate(69 -60)">
-        <g id="Repeat_Grid_1-5" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-5" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-7" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-17" data-name="funny" class="cls-48" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Sexy" class="cls-44" transform="translate(28 631)"><tspan x="0" y="0">Sexy</tspan></text>
+        <path id="funny-17" data-name="funny" class="cls-47" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Sexy" class="cls-43" transform="translate(28 631)"><tspan x="0" y="0">Sexy</tspan></text>
       </g>
       <g id="Group_340-8" data-name="Group 340" transform="translate(140 -60)">
-        <g id="Repeat_Grid_1-6" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-6" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-8" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-18" data-name="funny" class="cls-39" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Inspiring" class="cls-44" transform="translate(16 631)"><tspan x="0" y="0">Inspiring</tspan></text>
+        <path id="funny-18" data-name="funny" class="cls-38" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Inspiring" class="cls-43" transform="translate(16 631)"><tspan x="0" y="0">Inspiring</tspan></text>
       </g>
       <g id="Group_340-9" data-name="Group 340" transform="translate(211 -60)">
-        <g id="Repeat_Grid_1-7" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-7" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-9" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
         <path id="funny-19" data-name="funny" class="cls-32" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Tense" class="cls-44" transform="translate(25 631)"><tspan x="0" y="0">Tense</tspan></text>
+        <text id="Tense" class="cls-43" transform="translate(25 631)"><tspan x="0" y="0">Tense</tspan></text>
       </g>
       <g id="Group_340-10" data-name="Group 340" transform="translate(282 -60)">
-        <g id="Repeat_Grid_1-8" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-8" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-10" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-20" data-name="funny" class="cls-49" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Scary" class="cls-44" transform="translate(25 631)"><tspan x="0" y="0">Scary</tspan></text>
+        <path id="funny-20" data-name="funny" class="cls-48" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Scary" class="cls-43" transform="translate(25 631)"><tspan x="0" y="0">Scary</tspan></text>
       </g>
       <g id="Group_340-11" data-name="Group 340" transform="translate(-2 -2)">
-        <g id="Repeat_Grid_1-9" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-9" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-11" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-21" data-name="funny" class="cls-50" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Funny-22" data-name="Funny" class="cls-44" transform="translate(24 631)"><tspan x="0" y="0">Funny</tspan></text>
+        <path id="funny-21" data-name="funny" class="cls-49" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Funny-22" data-name="Funny" class="cls-43" transform="translate(24 631)"><tspan x="0" y="0">Funny</tspan></text>
       </g>
       <g id="Group_340-12" data-name="Group 340" transform="translate(69 -2)">
-        <g id="Repeat_Grid_1-10" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-10" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-12" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-23" data-name="funny" class="cls-51" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Romantic" class="cls-44" transform="translate(15 631)"><tspan x="0" y="0">Romantic</tspan></text>
+        <path id="funny-23" data-name="funny" class="cls-50" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Romantic" class="cls-43" transform="translate(15 631)"><tspan x="0" y="0">Romantic</tspan></text>
       </g>
       <g id="Group_340-13" data-name="Group 340" transform="translate(140 -2)">
-        <g id="Repeat_Grid_1-11" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-11" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-13" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
         <path id="funny-24" data-name="funny" class="cls-29" d="M0,0H30V30H0Z" transform="translate(24.5 589)"/>
-        <text id="Clever" class="cls-44" transform="translate(22 631)"><tspan x="0" y="0">Clever</tspan></text>
+        <text id="Clever" class="cls-43" transform="translate(22 631)"><tspan x="0" y="0">Clever</tspan></text>
       </g>
       <g id="Group_340-14" data-name="Group 340" transform="translate(211 -2)">
-        <g id="Repeat_Grid_1-12" data-name="Repeat Grid 1" class="cls-42" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-12" data-name="Repeat Grid 1" class="cls-41" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-14" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
         <path id="funny-25" data-name="funny" class="cls-34" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Cruel" class="cls-44" transform="translate(26 631)"><tspan x="0" y="0">Cruel</tspan></text>
+        <text id="Cruel" class="cls-43" transform="translate(26 631)"><tspan x="0" y="0">Cruel</tspan></text>
       </g>
       <g id="Group_340-15" data-name="Group 340" transform="translate(282 -2)">
         <rect id="Rectangle_200-15" data-name="Rectangle 200" class="cls-17" width="55" height="50" rx="4" transform="translate(13 586)"/>
         <path id="funny-26" data-name="funny" class="cls-18" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Unreal" class="cls-44" transform="translate(23 631)"><tspan x="0" y="0">Unreal</tspan></text>
+        <text id="Unreal" class="cls-43" transform="translate(23 631)"><tspan x="0" y="0">Unreal</tspan></text>
       </g>
       <g id="Normal_Flat_Light" data-name="Normal Flat Light" transform="translate(46 182)">
         <g id="ui_raised_btn_light-2" data-name="ui_raised_btn_light" transform="translate(-182 7)">
@@ -835,15 +836,15 @@
           <g id="ic_add_white" transform="translate(123 54)">
             <path id="ic_add_white-2" data-name="ic_add_white" class="cls-8" d="M3434,985.714h-4.285V990h-1.429v-4.286H3424v-1.428h4.286V980h1.429v4.286H3434Z" transform="translate(-3424 -980)"/>
           </g>
-          <g id="Group_334" data-name="Group 334" class="cls-52" transform="translate(120 51)">
-            <path id="gradient_border_2" data-name="gradient border 2" class="cls-53" d="M3411,959.143a7.857,7.857,0,1,1-7.857,7.857,7.857,7.857,0,0,1,7.857-7.857m0-.143a8,8,0,1,0,8,8,8,8,0,0,0-8-8Z" transform="translate(-3403 -959)"/>
-            <path id="gradient_border_1" data-name="gradient border 1" class="cls-54" d="M3411,959.143a7.857,7.857,0,1,1-7.857,7.857,7.857,7.857,0,0,1,7.857-7.857m0-.143a8,8,0,1,0,8,8,8,8,0,0,0-8-8Z" transform="translate(-3403 -959)"/>
+          <g id="Group_334" data-name="Group 334" class="cls-51" transform="translate(120 51)">
+            <path id="gradient_border_2" data-name="gradient border 2" class="cls-52" d="M3411,959.143a7.857,7.857,0,1,1-7.857,7.857,7.857,7.857,0,0,1,7.857-7.857m0-.143a8,8,0,1,0,8,8,8,8,0,0,0-8-8Z" transform="translate(-3403 -959)"/>
+            <path id="gradient_border_1" data-name="gradient border 1" class="cls-53" d="M3411,959.143a7.857,7.857,0,1,1-7.857,7.857,7.857,7.857,0,0,1,7.857-7.857m0-.143a8,8,0,1,0,8,8,8,8,0,0,0-8-8Z" transform="translate(-3403 -959)"/>
           </g>
         </g>
-        <text id="teal_Normal" class="cls-55" transform="translate(112 273)"><tspan x="0" y="0">ADD MORE</tspan></text>
+        <text id="teal_Normal" class="cls-54" transform="translate(112 273)"><tspan x="0" y="0">ADD MORE</tspan></text>
       </g>
     </g>
-    <text id="Title-2" data-name="Title" class="cls-26" transform="translate(3066 174)"><tspan x="0" y="0">Unreal, Futuristic...</tspan></text>
+    <text id="Title-2" data-name="Title" class="cls-55" transform="translate(3066 174)"><tspan x="0" y="0">Unreal, Futuristic...</tspan></text>
     <g id="View_all-2" data-name="View all" transform="translate(2771 -131)">
       <text id="NEXT-2" data-name="NEXT" class="cls-35" transform="translate(572 303)"><tspan x="0" y="0">SEE ALL</tspan></text>
       <g id="ui_raised_btn_light-3" data-name="ui_raised_btn_light" transform="translate(281 30)">

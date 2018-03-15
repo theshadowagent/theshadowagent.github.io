@@ -1,0 +1,232 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="4340 0 360 640">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Profile_not_logged_);
+      }
+
+      .cls-3 {
+        fill: #673ab7;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-10, .cls-11, .cls-15, .cls-16, .cls-22, .cls-5, .cls-7, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #424242;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-10, .cls-11, .cls-15, .cls-19, .cls-22, .cls-9 {
+        font-size: 14px;
+      }
+
+      .cls-10, .cls-11, .cls-18, .cls-9 {
+        font-family: Circular-Medium, Circular;
+      }
+
+      .cls-10, .cls-11, .cls-15, .cls-18, .cls-9 {
+        font-weight: 500;
+      }
+
+      .cls-10 {
+        opacity: 0.731;
+      }
+
+      .cls-11 {
+        opacity: 0.749;
+      }
+
+      .cls-12, .cls-23 {
+        fill: #f82b00;
+      }
+
+      .cls-13 {
+        fill: #512da8;
+      }
+
+      .cls-14, .cls-16 {
+        opacity: 0.9;
+      }
+
+      .cls-15 {
+        font-family: Roboto-Medium, Roboto;
+      }
+
+      .cls-17 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-18, .cls-19 {
+        fill: rgba(0,0,0,0.87);
+      }
+
+      .cls-18 {
+        font-size: 22px;
+        opacity: 0.87;
+      }
+
+      .cls-19, .cls-24 {
+        font-family: Circular-Book, Circular;
+      }
+
+      .cls-20 {
+        fill: #4d76a1;
+      }
+
+      .cls-21 {
+        fill: #3b5998;
+      }
+
+      .cls-22, .cls-23 {
+        font-family: Circular-Bold, Circular;
+        font-weight: 700;
+      }
+
+      .cls-23, .cls-24 {
+        font-size: 12px;
+      }
+
+      .cls-24 {
+        fill: rgba(0,0,0,0.54);
+      }
+
+      .cls-25 {
+        fill: #fafafa;
+      }
+
+      .cls-26 {
+        filter: url(#Rectangle_191-2);
+      }
+
+      .cls-27 {
+        filter: url(#Rectangle_191);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="360" height="33"/>
+    </clipPath>
+    <filter id="Rectangle_191" x="4403.5" y="459.5" width="111" height="58.636" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_191-2" x="4533.5" y="459.5" width="111" height="58.636" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Profile_not_logged_">
+      <rect x="4340" width="360" height="640"/>
+    </clipPath>
+  </defs>
+  <g id="Profile_not_logged_" data-name="Profile (not logged)" class="cls-2">
+    <rect class="cls-25" x="4340" width="360" height="640"/>
+    <g id="appbar_dark" transform="translate(4340)">
+      <path id="path" class="cls-3" d="M360,0H0V166H360V0Z"/>
+      <g id="ic_more_vert_white" transform="translate(331 40.704)">
+        <path id="path-2" data-name="path" class="cls-4" d="M12-.178H0V-24H12Z" transform="translate(0 24)"/>
+        <path id="path-3" data-name="path" class="cls-5" d="M5-16.03a2,2,0,0,0,2-1.985A2,2,0,0,0,5-20a2,2,0,0,0-2,1.985A2,2,0,0,0,5-16.03Zm0,1.985a2,2,0,0,0-2,1.985,2,2,0,0,0,2,1.985,2,2,0,0,0,2-1.985,2,2,0,0,0-2-1.985ZM5-8.089A2,2,0,0,0,3-6.1,2,2,0,0,0,5-4.119,2,2,0,0,0,7-6.1,2,2,0,0,0,5-8.089Z" transform="translate(1 23.97)"/>
+      </g>
+      <g id="ic_arrow_back" transform="translate(-105 -38)">
+        <rect id="rectangle" class="cls-1" width="24" height="24" transform="translate(121 78)"/>
+        <path id="path-4" data-name="path" class="cls-5" d="M20,11H7.8l5.6-5.6L12,4,4,12l8,8,1.4-1.4L7.8,13H20V11Z" transform="translate(121 78)"/>
+      </g>
+      <g id="Account" transform="translate(-158 4)">
+        <circle id="Ellipse_20" data-name="Ellipse 20" class="cls-6" cx="32" cy="32" r="32" transform="translate(306 45)"/>
+        <g id="ic_account_circle_white_48px" transform="translate(298 37)">
+          <path id="Path_126" data-name="Path 126" class="cls-7" d="M35.333,2A33.333,33.333,0,1,0,68.667,35.333,33.345,33.345,0,0,0,35.333,2Zm0,10a10,10,0,1,1-10,10A9.987,9.987,0,0,1,35.333,12Zm0,47.333a24,24,0,0,1-20-10.733c.1-6.633,13.333-10.267,20-10.267,6.633,0,19.9,3.633,20,10.267A24,24,0,0,1,35.333,59.333Z" transform="translate(4.667 4.667)"/>
+          <path id="Path_127" data-name="Path 127" class="cls-1" d="M0,0H80V80H0Z"/>
+        </g>
+      </g>
+      <g id="items" class="cls-8" transform="translate(0 133)">
+        <g id="group" transform="translate(-43 -780.953)">
+          <text id="tab_item" class="cls-9" transform="translate(100.5 793.953)"><tspan x="-28.952" y="0">FRIENDS</tspan></text>
+        </g>
+        <g id="group-2" data-name="group" transform="translate(77 -780.953)">
+          <text id="tab_item-2" data-name="tab_item" class="cls-10" transform="translate(100.5 793.953)"><tspan x="-40.299" y="0">WATCHLIST</tspan></text>
+        </g>
+        <g id="group-3" data-name="group" transform="translate(197 -780.953)">
+          <text id="tab_item-3" data-name="tab_item" class="cls-11" transform="translate(100.5 793.953)"><tspan x="-35.077" y="0">WATCHED</tspan></text>
+        </g>
+      </g>
+      <rect id="tab_selection_on" class="cls-12" width="120" height="1.581" transform="translate(0 164.419)"/>
+    </g>
+    <g id="sysbar_dark" transform="translate(4340 -28)">
+      <rect id="rectangle-2" data-name="rectangle" class="cls-13" width="360" height="24" transform="translate(0 28)"/>
+      <g id="sysbar_icons" transform="translate(0 28)">
+        <rect id="sysbar" class="cls-1" width="118" height="24" transform="translate(242)"/>
+        <g id="Group_284" data-name="Group 284" class="cls-14" transform="translate(256.732 4)">
+          <rect id="Rectangle_156" data-name="Rectangle 156" class="cls-1" width="40" height="16" transform="translate(54.8 1)"/>
+          <text id="_12:30" data-name="12:30" class="cls-15" transform="translate(59.268 13)"><tspan x="0" y="0">12:30</tspan></text>
+        </g>
+        <g id="sysbar_wifi" data-name="sysbar wifi" transform="translate(257.19 4)">
+          <g id="Group_285" data-name="Group 285" class="cls-14">
+            <path id="Path_78" data-name="Path 78" class="cls-16" d="M8.8,15,17.6,4.1A14.04,14.04,0,0,0,0,4.1L8.8,15Z"/>
+          </g>
+          <rect id="Rectangle_157" data-name="Rectangle 157" class="cls-17" width="16" height="16" transform="translate(0.8)"/>
+        </g>
+        <g id="sysbar_status" data-name="sysbar status" transform="translate(257.2 4)">
+          <path id="Path_79" data-name="Path 79" class="cls-16" d="M19.8,15h14V1Z"/>
+          <rect id="Rectangle_158" data-name="Rectangle 158" class="cls-1" width="16" height="16" transform="translate(18.8)"/>
+        </g>
+        <g id="sysbar_battery" data-name="sysbar battery" transform="translate(257.2 4)">
+          <rect id="Rectangle_159" data-name="Rectangle 159" class="cls-1" width="16" height="16" transform="translate(38.8)"/>
+          <path id="Path_80" data-name="Path 80" class="cls-16" d="M48.8,2V1h-3V2h-3V15h9V2Z"/>
+        </g>
+      </g>
+    </g>
+    <text id="Friends_movie_updates" data-name="Friends movie updates" class="cls-18" transform="translate(4407 218)"><tspan x="0" y="0">Friends movie updates</tspan></text>
+    <text id="Login_with_social_media_to_see_friends_movie_updates_and_share_your_emotions_with_them." data-name="Login with social media to see friends movie updates and share your emotions with them." class="cls-19" transform="translate(4412 397)"><tspan x="13.388" y="14">Login with social media to see </tspan><tspan x="6.178" y="32">friends movie updates and share </tspan><tspan x="27.703" y="50">your emotions with them.</tspan></text>
+    <g id="vk" transform="translate(4446 243)">
+      <g id="Group_287" data-name="Group 287" transform="translate(0 0)">
+        <circle id="XMLID_11_" class="cls-20" cx="50" cy="50" r="50"/>
+      </g>
+      <path id="Path_114" data-name="Path 114" class="cls-5" d="M50.061,76.153h3.924a3.31,3.31,0,0,0,1.791-.783,2.872,2.872,0,0,0,.539-1.724s-.077-5.266,2.367-6.041c2.409-.764,5.5,5.089,8.782,7.34a6.215,6.215,0,0,0,4.364,1.33l8.768-.122s4.587-.283,2.412-3.889c-.178-.3-1.267-2.668-6.519-7.543-5.5-5.1-4.761-4.277,1.861-13.1C82.383,46.242,84,42.96,83.492,41.555c-.48-1.339-3.447-.985-3.447-.985l-9.872.062a2.241,2.241,0,0,0-1.275.225,2.766,2.766,0,0,0-.872,1.06,57.158,57.158,0,0,1-3.646,7.7c-4.4,7.465-6.154,7.859-6.872,7.4-1.671-1.08-1.254-4.34-1.254-6.655,0-7.234,1.1-10.25-2.136-11.031a16.857,16.857,0,0,0-4.607-.458c-3.522-.037-6.5.011-8.192.838-1.123.55-1.989,1.775-1.462,1.846a4.43,4.43,0,0,1,2.914,1.465c1.012,1.376.976,4.467.976,4.467S44.329,56,42.39,57.054c-1.331.726-3.156-.756-7.075-7.528a62.954,62.954,0,0,1-3.524-7.3,2.934,2.934,0,0,0-.814-1.1,4.091,4.091,0,0,0-1.517-.612l-9.381.061s-1.408.039-1.925.652c-.46.545-.037,1.671-.037,1.671s7.344,17.182,15.66,25.841c7.625,7.939,16.284,7.417,16.284,7.417Z" transform="translate(-1.95 -4.224)"/>
+    </g>
+    <g id="fb" transform="translate(4495 285)">
+      <circle id="Ellipse_16" data-name="Ellipse 16" class="cls-21" cx="50" cy="50" r="50" transform="translate(0 0)"/>
+      <path id="Path_113" data-name="Path 113" class="cls-7" d="M66.68,54.323H57.758V87.009H44.241V54.323H37.812V42.836h6.429V35.4c0-5.316,2.525-13.64,13.638-13.64l10.013.042v11.15H60.627c-1.192,0-2.867.6-2.867,3.131v6.76h10.1Z" transform="translate(-4.11 -2.366)"/>
+    </g>
+    <g id="VK_Button" data-name="VK Button" transform="translate(4409 466)">
+      <g class="cls-27" transform="matrix(1, 0, 0, 1, -4409, -466)">
+        <rect id="Rectangle_191-3" data-name="Rectangle 191" class="cls-20" width="90" height="37.636" transform="translate(4410 466)"/>
+      </g>
+      <text id="VK-2" data-name="VK" class="cls-22" transform="translate(46 24)"><tspan x="-9.695" y="0">VK</tspan></text>
+    </g>
+    <g id="FB_Button" data-name="FB Button" transform="translate(4557 466)">
+      <g class="cls-26" transform="matrix(1, 0, 0, 1, -4557, -466)">
+        <rect id="Rectangle_191-4" data-name="Rectangle 191" class="cls-21" width="90" height="37.636" transform="translate(4540 466)"/>
+      </g>
+      <text id="Facebook" class="cls-22" transform="translate(28 24)"><tspan x="-31.507" y="0">Facebook</tspan></text>
+    </g>
+    <g id="View_all" data-name="View all" transform="translate(3915 312)">
+      <text id="NEXT" class="cls-23" transform="translate(551 303)"><tspan x="0" y="0">LOGIN OR SIGN UP</tspan></text>
+      <g id="ui_raised_btn_light" transform="translate(281 30)">
+        <path id="button" class="cls-1" d="M1.872,0H86.128A1.939,1.939,0,0,1,88,2V34a1.939,1.939,0,0,1-1.872,2H1.872A1.939,1.939,0,0,1,0,34V2A1.939,1.939,0,0,1,1.872,0Z" transform="translate(270 250)"/>
+      </g>
+    </g>
+    <text id="Don_t_have_a_social_media_account_Sign_up_in_Emotive_to_sync_your_data_between_devices._" data-name="Don&apos;t have a social media account?
+Sign up in Emotive to sync your data between devices. " class="cls-24" transform="translate(4413 539)"><tspan x="12.338" y="12">Don&apos;t have a social media account?</tspan><tspan x="9.152" y="27">Sign up in Emotive to sync your data </tspan><tspan x="59.888" y="42">between devices. </tspan></text>
+    <g id="Favourite" transform="translate(4004.5 -250)">
+      <rect id="rectangle-3" data-name="rectangle" class="cls-1" width="24" height="24" transform="translate(634.5 290)"/>
+      <path id="path-5" data-name="path" class="cls-5" d="M12,8A4.932,4.932,0,0,0,7.5,5,4.413,4.413,0,0,0,3,9.5c0,3.529,3.793,6.258,9,11.5,5.207-5.242,9-7.971,9-11.5A4.413,4.413,0,0,0,16.5,5,4.93,4.93,0,0,0,12,8Z" transform="translate(634.5 290)"/>
+    </g>
+  </g>
+</svg>

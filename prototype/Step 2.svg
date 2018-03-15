@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="880 0 360 640">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="900 0 360 640">
   <defs>
     <style>
       .cls-1 {
@@ -97,14 +97,14 @@
         filter: url(#Rectangle_191);
       }
     </style>
-    <filter id="Rectangle_191" x="915.5" y="479.5" width="131" height="67" filterUnits="userSpaceOnUse">
+    <filter id="Rectangle_191" x="935.5" y="479.5" width="131" height="67" filterUnits="userSpaceOnUse">
       <feOffset dx="3" dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3.5" result="blur"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Rectangle_191-2" x="1080.5" y="479.5" width="131" height="67" filterUnits="userSpaceOnUse">
+    <filter id="Rectangle_191-2" x="1100.5" y="479.5" width="131" height="67" filterUnits="userSpaceOnUse">
       <feOffset dx="3" dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3.5" result="blur-2"/>
       <feFlood flood-opacity="0.161"/>
@@ -115,26 +115,26 @@
       <circle id="Ellipse_15" data-name="Ellipse 15" class="cls-1" cx="62.191" cy="62.191" r="62.191"/>
     </clipPath>
     <clipPath id="clip-Step_2">
-      <rect x="880" width="360" height="640"/>
+      <rect x="900" width="360" height="640"/>
     </clipPath>
   </defs>
   <g id="Step_2" data-name="Step 2" class="cls-2">
-    <rect class="cls-20" x="880" width="360" height="640"/>
-    <text id="Detect_mood" data-name="Detect mood" class="cls-3" transform="translate(970 135)"><tspan x="0" y="0">Detect mood</tspan></text>
-    <text id="Connect_Spotify_or_Last.fm_to_detect_your_mood_based_on_recent_music_playings." data-name="Connect Spotify or Last.fm to detect your mood based on recent music playings." class="cls-4" transform="translate(933 400)"><tspan x="0" y="16">Connect Spotify or Last.fm to </tspan><tspan x="0" y="36">detect your mood based on recent </tspan><tspan x="0" y="56">music playings.</tspan></text>
-    <g id="VK_Button" data-name="VK Button" transform="translate(922 487)">
-      <g class="cls-22" transform="matrix(1, 0, 0, 1, -922, -487)">
-        <rect id="Rectangle_191-3" data-name="Rectangle 191" class="cls-5" width="110" height="46" transform="translate(923 487)"/>
+    <rect class="cls-20" x="900" width="360" height="640"/>
+    <text id="Detect_mood" data-name="Detect mood" class="cls-3" transform="translate(990 135)"><tspan x="0" y="0">Detect mood</tspan></text>
+    <text id="Connect_Spotify_or_Last.fm_to_detect_your_mood_based_on_recent_music_playings." data-name="Connect Spotify or Last.fm to detect your mood based on recent music playings." class="cls-4" transform="translate(953 400)"><tspan x="20.736" y="16">Connect Spotify or Last.fm to </tspan><tspan x="3.288" y="36">detect your mood based on recent </tspan><tspan x="71.76" y="56">music playings.</tspan></text>
+    <g id="VK_Button" data-name="VK Button" transform="translate(942 487)">
+      <g class="cls-22" transform="matrix(1, 0, 0, 1, -942, -487)">
+        <rect id="Rectangle_191-3" data-name="Rectangle 191" class="cls-5" width="110" height="46" transform="translate(943 487)"/>
       </g>
       <text id="Last.fm" class="cls-6" transform="translate(55 29)"><tspan x="-27.84" y="0">Last.fm</tspan></text>
     </g>
-    <g id="Spotify_Button" data-name="Spotify Button" transform="translate(1105 487)">
-      <g class="cls-21" transform="matrix(1, 0, 0, 1, -1105, -487)">
-        <rect id="Rectangle_191-4" data-name="Rectangle 191" class="cls-7" width="110" height="46" transform="translate(1088 487)"/>
+    <g id="Spotify_Button" data-name="Spotify Button" transform="translate(1125 487)">
+      <g class="cls-21" transform="matrix(1, 0, 0, 1, -1125, -487)">
+        <rect id="Rectangle_191-4" data-name="Rectangle 191" class="cls-7" width="110" height="46" transform="translate(1108 487)"/>
       </g>
       <text id="Spotify" class="cls-6" transform="translate(38 29)"><tspan x="-26.992" y="0">Spotify</tspan></text>
     </g>
-    <g id="lfm" transform="translate(967 169.999)">
+    <g id="lfm" transform="translate(987 169.999)">
       <path id="XMLID_59_" class="cls-5" d="M124.381,62.19A62.19,62.19,0,1,1,62.192,0,62.19,62.19,0,0,1,124.381,62.19Z" transform="translate(0 0)"/>
       <g id="lastfm" transform="translate(17.1 37.355)">
         <g id="Group_288" data-name="Group 288">
@@ -142,7 +142,7 @@
         </g>
       </g>
     </g>
-    <g id="imdb" transform="translate(1029 232)">
+    <g id="imdb" transform="translate(1049 232)">
       <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-9" transform="translate(0 0)">
         <g id="spotify-2" data-name="spotify">
           <g id="Spotify-3" data-name="Spotify">
@@ -152,23 +152,23 @@
         </g>
       </g>
     </g>
-    <g id="Viewpager" transform="translate(879 -3)">
+    <g id="Viewpager" transform="translate(899 -3)">
       <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-12" cx="4.044" cy="4.044" r="4.044" transform="translate(169.971 609)"/>
       <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-5" cx="4.044" cy="4.044" r="4.044" transform="translate(183.941 609)"/>
     </g>
-    <g id="Skip" transform="translate(338 312)">
+    <g id="Skip" transform="translate(358 312)">
       <text id="SKIP-2" data-name="SKIP" class="cls-13" transform="translate(578 304)"><tspan x="0" y="0">SKIP</tspan></text>
       <g id="ui_raised_btn_light" transform="translate(281 30)">
         <path id="button" class="cls-14" d="M1.872,0H86.128A1.939,1.939,0,0,1,88,2V34a1.939,1.939,0,0,1-1.872,2H1.872A1.939,1.939,0,0,1,0,34V2A1.939,1.939,0,0,1,1.872,0Z" transform="translate(270 250)"/>
       </g>
     </g>
-    <g id="Next" transform="translate(592 312)">
+    <g id="Next" transform="translate(612 312)">
       <text id="NEXT-2" data-name="NEXT" class="cls-13" transform="translate(568.5 304)"><tspan x="0" y="0">FINISH</tspan></text>
       <g id="ui_raised_btn_light-2" data-name="ui_raised_btn_light" transform="translate(281 30)">
         <path id="button-2" data-name="button" class="cls-14" d="M1.872,0H86.128A1.939,1.939,0,0,1,88,2V34a1.939,1.939,0,0,1-1.872,2H1.872A1.939,1.939,0,0,1,0,34V2A1.939,1.939,0,0,1,1.872,0Z" transform="translate(270 250)"/>
       </g>
     </g>
-    <g id="sysbar_dark" transform="translate(880)">
+    <g id="sysbar_dark" transform="translate(900)">
       <rect id="rectangle" class="cls-15" width="360" height="24"/>
       <g id="sysbar_icons">
         <rect id="sysbar" class="cls-14" width="118" height="24" transform="translate(242)"/>

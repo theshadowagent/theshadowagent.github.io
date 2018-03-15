@@ -17,7 +17,7 @@
         fill-rule: evenodd;
       }
 
-      .cls-19, .cls-20, .cls-25, .cls-35, .cls-4, .cls-41, .cls-5, .cls-54, .cls-8 {
+      .cls-19, .cls-20, .cls-25, .cls-4, .cls-41, .cls-5, .cls-54, .cls-8 {
         fill: #fff;
       }
 
@@ -25,11 +25,11 @@
         font-size: 20px;
       }
 
-      .cls-22, .cls-25, .cls-4, .cls-41, .cls-54 {
+      .cls-22, .cls-25, .cls-4, .cls-41, .cls-54, .cls-55 {
         font-family: Circular-Medium, Circular;
       }
 
-      .cls-19, .cls-22, .cls-25, .cls-4, .cls-41, .cls-54 {
+      .cls-19, .cls-22, .cls-25, .cls-4, .cls-41, .cls-54, .cls-55 {
         font-weight: 500;
       }
 
@@ -70,7 +70,7 @@
         fill: url(#linear-gradient-2);
       }
 
-      .cls-16 {
+      .cls-16, .cls-35 {
         opacity: 0.54;
       }
 
@@ -94,9 +94,15 @@
         fill: rgba(0,0,0,0);
       }
 
-      .cls-22 {
+      .cls-22, .cls-35, .cls-55 {
         fill: rgba(0,0,0,0.87);
+      }
+
+      .cls-22, .cls-55 {
         font-size: 22px;
+      }
+
+      .cls-22 {
         opacity: 0.93;
       }
 
@@ -145,7 +151,7 @@
         font-weight: 700;
       }
 
-      .cls-34, .cls-35 {
+      .cls-34 {
         opacity: 0.81;
       }
 
@@ -214,58 +220,62 @@
       }
 
       .cls-55 {
-        filter: url(#path);
+        opacity: 0.87;
       }
 
       .cls-56 {
-        filter: url(#Emotion_toolbar);
+        filter: url(#path);
       }
 
       .cls-57 {
-        filter: url(#Shape_of_water-7);
+        filter: url(#Emotion_toolbar);
       }
 
       .cls-58 {
-        filter: url(#Path_120-3);
+        filter: url(#Shape_of_water-7);
       }
 
       .cls-59 {
-        filter: url(#Shape_of_water-6);
+        filter: url(#Path_120-3);
       }
 
       .cls-60 {
-        filter: url(#Path_120-2);
+        filter: url(#Shape_of_water-6);
       }
 
       .cls-61 {
-        filter: url(#Shape_of_water-5);
+        filter: url(#Path_120-2);
       }
 
       .cls-62 {
-        filter: url(#Path_120);
+        filter: url(#Shape_of_water-5);
       }
 
       .cls-63 {
-        filter: url(#rectangle-2);
+        filter: url(#Path_120);
       }
 
       .cls-64 {
-        filter: url(#Shape_of_water-4);
+        filter: url(#rectangle-2);
       }
 
       .cls-65 {
-        filter: url(#Shape_of_water-3);
+        filter: url(#Shape_of_water-4);
       }
 
       .cls-66 {
-        filter: url(#Shape_of_water-2);
+        filter: url(#Shape_of_water-3);
       }
 
       .cls-67 {
-        filter: url(#Shape_of_water);
+        filter: url(#Shape_of_water-2);
       }
 
       .cls-68 {
+        filter: url(#Shape_of_water);
+      }
+
+      .cls-69 {
         filter: url(#rectangle);
       }
     </style>
@@ -542,12 +552,12 @@
       </g>
     </g>
     <g id="Popular" transform="translate(2188 313)">
-      <g class="cls-68" transform="matrix(1, 0, 0, 1, -2188, -313)">
+      <g class="cls-69" transform="matrix(1, 0, 0, 1, -2188, -313)">
         <rect id="rectangle-5" data-name="rectangle" class="cls-8" width="360" height="190" rx="2" transform="translate(2620 634)"/>
       </g>
       <text id="Title" class="cls-22" transform="translate(448 353)"><tspan x="0" y="0">Popular now</tspan></text>
       <g id="Group_336" data-name="Group 336">
-        <g class="cls-67" transform="matrix(1, 0, 0, 1, -2188, -313)">
+        <g class="cls-68" transform="matrix(1, 0, 0, 1, -2188, -313)">
           <path id="Shape_of_water-8" data-name="Shape of water" class="cls-23" d="M0,0H80V117.8H0Z" transform="translate(2636 679)"/>
         </g>
         <g id="Rating" transform="translate(437 64)">
@@ -557,7 +567,7 @@
         <path id="funny" class="cls-26" d="M0,0H30V30H0Z" transform="translate(440 464)"/>
       </g>
       <g id="Group_337" data-name="Group 337" transform="translate(105)">
-        <g class="cls-66" transform="matrix(1, 0, 0, 1, -2293, -313)">
+        <g class="cls-67" transform="matrix(1, 0, 0, 1, -2293, -313)">
           <path id="Shape_of_water-9" data-name="Shape of water" class="cls-27" d="M0,0H80V117.8H0Z" transform="translate(2741 679)"/>
         </g>
         <g id="Rating-2" data-name="Rating" transform="translate(437 64)">
@@ -567,7 +577,7 @@
         <path id="funny-2" data-name="funny" class="cls-28" d="M0,0H30V30H0Z" transform="translate(440 464)"/>
       </g>
       <g id="Group_338" data-name="Group 338" transform="translate(210)">
-        <g class="cls-65" transform="matrix(1, 0, 0, 1, -2398, -313)">
+        <g class="cls-66" transform="matrix(1, 0, 0, 1, -2398, -313)">
           <path id="Shape_of_water-10" data-name="Shape of water" class="cls-29" d="M0,0H80V117.8H0Z" transform="translate(2846 679)"/>
         </g>
         <g id="Rating-3" data-name="Rating" transform="translate(437 64)">
@@ -577,7 +587,7 @@
         <path id="funny-3" data-name="funny" class="cls-30" d="M0,0H30V30H0Z" transform="translate(440 464)"/>
       </g>
       <g id="Group_339" data-name="Group 339" transform="translate(315)">
-        <g class="cls-64" transform="matrix(1, 0, 0, 1, -2503, -313)">
+        <g class="cls-65" transform="matrix(1, 0, 0, 1, -2503, -313)">
           <path id="Shape_of_water-11" data-name="Shape of water" class="cls-31" d="M0,0H80V117.8H0Z" transform="translate(2951 679)"/>
         </g>
         <g id="Rating-4" data-name="Rating" transform="translate(437 64)">
@@ -594,14 +604,14 @@
       </g>
     </g>
     <g id="Search-2" data-name="Search" transform="translate(2188 -179)">
-      <g class="cls-63" transform="matrix(1, 0, 0, 1, -2188, 179)">
-        <rect id="rectangle-6" data-name="rectangle" class="cls-8" width="359.632" height="298" rx="2" transform="translate(2620 142)"/>
+      <g class="cls-64" transform="matrix(1, 0, 0, 1, -2188, 179)">
+        <rect id="rectangle-6" data-name="rectangle" class="cls-11" width="359.632" height="298" rx="2" transform="translate(2620 142)"/>
       </g>
       <g id="Movie" transform="translate(435.547 372.579)">
-        <g class="cls-62" transform="matrix(1, 0, 0, 1, -2623.55, -193.58)">
-          <path id="Path_120-4" data-name="Path 120" class="cls-17" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(2636 187)"/>
+        <g class="cls-63" transform="matrix(1, 0, 0, 1, -2623.55, -193.58)">
+          <path id="Path_120-4" data-name="Path 120" class="cls-8" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(2636 187)"/>
         </g>
-        <g class="cls-61" transform="matrix(1, 0, 0, 1, -2623.55, -193.58)">
+        <g class="cls-62" transform="matrix(1, 0, 0, 1, -2623.55, -193.58)">
           <path id="Shape_of_water-12" data-name="Shape of water" class="cls-23" d="M0,0H122V179.648H0Z" transform="translate(2636 187)"/>
         </g>
         <g id="Rating-5" data-name="Rating" transform="translate(115.453 153.421)">
@@ -611,7 +621,7 @@
         <g id="Group_353" data-name="Group 353" transform="translate(-655.547 -351.579)">
           <g id="ic_visibility_white_48px" class="cls-34" transform="translate(761 537)">
             <path id="Path_118" data-name="Path 118" class="cls-1" d="M0,0H24V24H0Z"/>
-            <path id="Path_119" data-name="Path 119" class="cls-8" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
+            <path id="Path_119" data-name="Path 119" class="cls-35" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
           </g>
           <g id="ic_turned_in_white_48px" transform="translate(733 537)">
             <path id="Path_124" data-name="Path 124" class="cls-35" d="M18.895,3H7.316a2.38,2.38,0,0,0-2.3,2.444L5,25l8.105-3.667L21.211,25V5.444A2.39,2.39,0,0,0,18.895,3Z" transform="translate(-1 -2)"/>
@@ -624,10 +634,10 @@
         </g>
       </g>
       <g id="Movie-2" data-name="Movie" transform="translate(584.547 372.579)">
-        <g class="cls-60" transform="matrix(1, 0, 0, 1, -2772.55, -193.58)">
-          <path id="Path_120-5" data-name="Path 120" class="cls-17" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(2785 187)"/>
+        <g class="cls-61" transform="matrix(1, 0, 0, 1, -2772.55, -193.58)">
+          <path id="Path_120-5" data-name="Path 120" class="cls-8" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(2785 187)"/>
         </g>
-        <g class="cls-59" transform="matrix(1, 0, 0, 1, -2772.55, -193.58)">
+        <g class="cls-60" transform="matrix(1, 0, 0, 1, -2772.55, -193.58)">
           <path id="Shape_of_water-13" data-name="Shape of water" class="cls-27" d="M0,0H122V179.648H0Z" transform="translate(2785 187)"/>
         </g>
         <g id="Rating-6" data-name="Rating" transform="translate(115.453 153.421)">
@@ -637,7 +647,7 @@
         <g id="Group_353-2" data-name="Group 353" transform="translate(-655.547 -351.579)">
           <g id="ic_visibility_white_48px-2" data-name="ic_visibility_white_48px" class="cls-34" transform="translate(761 537)">
             <path id="Path_118-2" data-name="Path 118" class="cls-1" d="M0,0H24V24H0Z"/>
-            <path id="Path_119-2" data-name="Path 119" class="cls-8" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
+            <path id="Path_119-2" data-name="Path 119" class="cls-35" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
           </g>
           <g id="ic_turned_in_white_48px-2" data-name="ic_turned_in_white_48px" transform="translate(733 537)">
             <path id="Path_124-2" data-name="Path 124" class="cls-35" d="M18.895,3H7.316a2.38,2.38,0,0,0-2.3,2.444L5,25l8.105-3.667L21.211,25V5.444A2.39,2.39,0,0,0,18.895,3Z" transform="translate(-1 -2)"/>
@@ -650,10 +660,10 @@
         </g>
       </g>
       <g id="Movie-3" data-name="Movie" transform="translate(733.547 372.579)">
-        <g class="cls-58" transform="matrix(1, 0, 0, 1, -2921.55, -193.58)">
-          <path id="Path_120-6" data-name="Path 120" class="cls-17" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(2934 187)"/>
+        <g class="cls-59" transform="matrix(1, 0, 0, 1, -2921.55, -193.58)">
+          <path id="Path_120-6" data-name="Path 120" class="cls-8" d="M2.122,0H119.878A2.122,2.122,0,0,1,122,2.123V221.877A2.122,2.122,0,0,1,119.878,224H2.122A2.122,2.122,0,0,1,0,221.877V2.123A2.122,2.122,0,0,1,2.122,0Z" transform="translate(2934 187)"/>
         </g>
-        <g class="cls-57" transform="matrix(1, 0, 0, 1, -2921.55, -193.58)">
+        <g class="cls-58" transform="matrix(1, 0, 0, 1, -2921.55, -193.58)">
           <path id="Shape_of_water-14" data-name="Shape of water" class="cls-37" d="M0,0H122V179.648H0Z" transform="translate(2934 187)"/>
         </g>
         <g id="Rating-7" data-name="Rating" transform="translate(115.453 153.421)">
@@ -663,7 +673,7 @@
         <g id="Group_353-3" data-name="Group 353" transform="translate(-655.547 -351.579)">
           <g id="ic_visibility_white_48px-3" data-name="ic_visibility_white_48px" class="cls-34" transform="translate(761 537)">
             <path id="Path_118-3" data-name="Path 118" class="cls-1" d="M0,0H24V24H0Z"/>
-            <path id="Path_119-3" data-name="Path 119" class="cls-8" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
+            <path id="Path_119-3" data-name="Path 119" class="cls-35" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z"/>
           </g>
           <g id="ic_turned_in_white_48px-3" data-name="ic_turned_in_white_48px" transform="translate(733 537)">
             <path id="Path_124-3" data-name="Path 124" class="cls-35" d="M18.895,3H7.316a2.38,2.38,0,0,0-2.3,2.444L5,25l8.105-3.667L21.211,25V5.444A2.39,2.39,0,0,0,18.895,3Z" transform="translate(-1 -2)"/>
@@ -677,7 +687,7 @@
       </g>
     </g>
     <g id="toolbar" transform="translate(2620 1)">
-      <g class="cls-56" transform="matrix(1, 0, 0, 1, -2620, -1)">
+      <g class="cls-57" transform="matrix(1, 0, 0, 1, -2620, -1)">
         <rect id="Emotion_toolbar-2" data-name="Emotion toolbar" class="cls-38" width="360" height="205" transform="translate(2620 435)"/>
       </g>
       <g id="Group_340" data-name="Group 340" transform="translate(-2 -118)">
@@ -824,7 +834,7 @@
         <text id="teal_Normal" class="cls-54" transform="translate(112 273)"><tspan x="0" y="0">ADD MORE</tspan></text>
       </g>
     </g>
-    <text id="Title-2" data-name="Title" class="cls-22" transform="translate(2636 174)"><tspan x="0" y="0">Unreal &amp; Futuristic</tspan></text>
+    <text id="Title-2" data-name="Title" class="cls-55" transform="translate(2636 174)"><tspan x="0" y="0">Unreal &amp; Futuristic</tspan></text>
     <g id="View_all-2" data-name="View all" transform="translate(2341 -131)">
       <text id="NEXT-2" data-name="NEXT" class="cls-33" transform="translate(572 303)"><tspan x="0" y="0">SEE ALL</tspan></text>
       <g id="ui_raised_btn_light-3" data-name="ui_raised_btn_light" transform="translate(281 30)">
@@ -841,7 +851,7 @@
     </g>
     <g id="ic_chevron_right" transform="translate(2528 459)">
       <rect id="rectangle-7" data-name="rectangle" class="cls-1" width="25" height="25" transform="translate(433 78)"/>
-      <g class="cls-55" transform="matrix(1, 0, 0, 1, -2528, -459)">
+      <g class="cls-56" transform="matrix(1, 0, 0, 1, -2528, -459)">
         <path id="path-8" data-name="path" class="cls-5" d="M8.6,7.458,10.058,6l6.25,6.25-6.25,6.25L8.6,17.042l4.792-4.792Z" transform="translate(2961.36 537.25)"/>
       </g>
     </g>
