@@ -5,7 +5,7 @@
         fill: none;
       }
 
-      .cls-10, .cls-2, .cls-21, .cls-22, .cls-26, .cls-30, .cls-41, .cls-58, .cls-6, .cls-7 {
+      .cls-10, .cls-2, .cls-21, .cls-22, .cls-26, .cls-30, .cls-41, .cls-59, .cls-6, .cls-7 {
         fill: #fff;
       }
 
@@ -21,7 +21,7 @@
         clip-path: url(#clip-Main_page);
       }
 
-      .cls-5, .cls-55 {
+      .cls-5, .cls-56 {
         fill: #673ab7;
       }
 
@@ -33,11 +33,11 @@
         font-size: 20px;
       }
 
-      .cls-28, .cls-30, .cls-37, .cls-58, .cls-7 {
+      .cls-28, .cls-30, .cls-37, .cls-48, .cls-59, .cls-7 {
         font-family: Circular-Medium, Circular;
       }
 
-      .cls-21, .cls-28, .cls-30, .cls-37, .cls-58, .cls-7 {
+      .cls-21, .cls-28, .cls-30, .cls-37, .cls-48, .cls-59, .cls-7 {
         font-weight: 500;
       }
 
@@ -115,7 +115,7 @@
         fill: url(#pattern-4);
       }
 
-      .cls-28, .cls-37 {
+      .cls-28, .cls-37, .cls-48 {
         fill: rgba(0,0,0,0.87);
       }
 
@@ -155,12 +155,11 @@
         fill: url(#pattern-7);
       }
 
-      .cls-37 {
+      .cls-37, .cls-48 {
         font-size: 22px;
-        opacity: 0.93;
       }
 
-      .cls-38, .cls-39, .cls-41, .cls-58 {
+      .cls-38, .cls-39, .cls-41, .cls-59 {
         font-size: 12px;
       }
 
@@ -194,94 +193,98 @@
       }
 
       .cls-48 {
-        fill: url(#pattern-12);
+        opacity: 0.93;
       }
 
       .cls-49 {
-        fill: url(#pattern-14);
+        fill: url(#pattern-12);
       }
 
       .cls-50 {
-        fill: url(#pattern-15);
+        fill: url(#pattern-14);
       }
 
       .cls-51 {
-        fill: url(#pattern-16);
+        fill: url(#pattern-15);
       }
 
       .cls-52 {
-        fill: url(#pattern-17);
+        fill: url(#pattern-16);
       }
 
       .cls-53 {
-        fill: url(#pattern-18);
+        fill: url(#pattern-17);
       }
 
       .cls-54 {
+        fill: url(#pattern-18);
+      }
+
+      .cls-55 {
         fill: url(#pattern-19);
       }
 
-      .cls-56 {
+      .cls-57 {
         clip-path: url(#clip-path-4);
       }
 
-      .cls-57 {
+      .cls-58 {
         fill: url(#pattern-20);
       }
 
-      .cls-59 {
+      .cls-60 {
         fill: url(#pattern-24);
       }
 
-      .cls-60 {
+      .cls-61 {
         filter: url(#path);
       }
 
-      .cls-61 {
+      .cls-62 {
         filter: url(#Emotion_toolbar);
       }
 
-      .cls-62 {
+      .cls-63 {
         filter: url(#Shape_of_water-4);
       }
 
-      .cls-63 {
+      .cls-64 {
         filter: url(#Shape_of_water-3);
       }
 
-      .cls-64 {
+      .cls-65 {
         filter: url(#Shape_of_water-2);
       }
 
-      .cls-65 {
+      .cls-66 {
         filter: url(#Shape_of_water);
       }
 
-      .cls-66 {
+      .cls-67 {
         filter: url(#rectangle-3);
       }
 
-      .cls-67 {
+      .cls-68 {
         filter: url(#Rectangle_197-3);
       }
 
-      .cls-68 {
+      .cls-69 {
         filter: url(#Rectangle_197-2);
       }
 
-      .cls-69 {
+      .cls-70 {
         filter: url(#Rectangle_197);
       }
 
-      .cls-70 {
+      .cls-71 {
         filter: url(#rectangle-2);
       }
 
-      .cls-71 {
+      .cls-72 {
         filter: url(#Interstellar_poster);
       }
 
-      .cls-72 {
+      .cls-73 {
         filter: url(#rectangle);
       }
     </style>
@@ -527,7 +530,7 @@
       </g>
     </g>
     <g id="Personal_card" data-name="Personal card" transform="translate(898 -154)">
-      <g class="cls-72" transform="matrix(1, 0, 0, 1, -898, 154)">
+      <g class="cls-73" transform="matrix(1, 0, 0, 1, -898, 154)">
         <path id="rectangle-6" data-name="rectangle" class="cls-10" d="M2,0H358a2.182,2.182,0,0,1,2,2.327V282.673A2.182,2.182,0,0,1,358,285H2a2.182,2.182,0,0,1-2-2.327V2.327A2.182,2.182,0,0,1,2,0Z" transform="translate(1330 142)"/>
       </g>
       <g id="Body" transform="translate(0 15)">
@@ -538,7 +541,7 @@
           <rect id="rectangle-7" data-name="rectangle" class="cls-1" width="30" height="30" transform="translate(433 78)"/>
           <path id="path-7" data-name="path" class="cls-26" d="M8.6,7.75,10.35,6l7.5,7.5L10.35,21,8.6,19.25l5.75-5.75Z" transform="translate(435.15 79.5)"/>
         </g>
-        <g class="cls-71" transform="matrix(1, 0, 0, 1, -898, 139)">
+        <g class="cls-72" transform="matrix(1, 0, 0, 1, -898, 139)">
           <path id="Interstellar_poster-2" data-name="Interstellar poster" class="cls-27" d="M0,0H80V118.519H0Z" transform="translate(1346 275)"/>
         </g>
         <text id="Interstellar_2014_" data-name="Interstellar (2014)" class="cls-28" transform="translate(549 523)"><tspan x="0" y="0">Interstellar (2014)</tspan></text>
@@ -573,12 +576,12 @@
       </g>
     </g>
     <g id="Mood_card" data-name="Mood card" transform="translate(898 116)">
-      <g class="cls-70" transform="matrix(1, 0, 0, 1, -898, -116)">
+      <g class="cls-71" transform="matrix(1, 0, 0, 1, -898, -116)">
         <rect id="rectangle-8" data-name="rectangle" class="cls-10" width="360" height="190" rx="2" transform="translate(1330 437)"/>
       </g>
       <text id="Title-2" data-name="Title" class="cls-37" transform="translate(448 353)"><tspan x="0" y="0">Mood watchlists</tspan></text>
       <g id="Clever_Inspiring" data-name="Clever &amp; Inspiring" transform="translate(-4 -3)">
-        <g class="cls-69" transform="matrix(1, 0, 0, 1, -894, -113)">
+        <g class="cls-70" transform="matrix(1, 0, 0, 1, -894, -113)">
           <rect id="Rectangle_197-4" data-name="Rectangle 197" class="cls-40" width="115" height="125" rx="2" transform="translate(1477 479)"/>
         </g>
         <path id="inspiring-2" data-name="inspiring" class="cls-31" d="M0,0H50V50H0Z" transform="translate(636 386)"/>
@@ -586,7 +589,7 @@
         <text id="Clever_Inspiring-2" data-name="Clever &amp; Inspiring" class="cls-41" transform="translate(593 465)"><tspan x="0" y="0">Clever &amp; Inspiring</tspan></text>
       </g>
       <g id="Music_mood" data-name="Music mood" transform="translate(0 -3)">
-        <g class="cls-68" transform="matrix(1, 0, 0, 1, -898, -113)">
+        <g class="cls-69" transform="matrix(1, 0, 0, 1, -898, -113)">
           <rect id="Rectangle_197-5" data-name="Rectangle 197" class="cls-42" width="115" height="125" rx="2" transform="translate(1346 479)"/>
         </g>
         <g id="Spotify" transform="translate(474.569 385.569)">
@@ -602,7 +605,7 @@
         <text id="Music_Mood-2" data-name="Music Mood" class="cls-41" transform="translate(472 465)"><tspan x="0" y="0">Music Mood</tspan></text>
       </g>
       <g id="Clever_Inspiring-3" data-name="Clever &amp; Inspiring" transform="translate(127 -3)">
-        <g class="cls-67" transform="matrix(1, 0, 0, 1, -1025, -113)">
+        <g class="cls-68" transform="matrix(1, 0, 0, 1, -1025, -113)">
           <rect id="Rectangle_197-6" data-name="Rectangle 197" class="cls-45" width="115" height="125" rx="2" transform="translate(1608 479)"/>
         </g>
         <text id="Romantic_Touching" data-name="Romantic &amp; Touching" class="cls-41" transform="translate(609 453)"><tspan x="0" y="12">Romantic &amp; </tspan><tspan x="0" y="27">Touching</tspan></text>
@@ -611,13 +614,13 @@
       </g>
     </g>
     <g id="Popular" transform="translate(898 313)">
-      <g class="cls-66" transform="matrix(1, 0, 0, 1, -898, -313)">
+      <g class="cls-67" transform="matrix(1, 0, 0, 1, -898, -313)">
         <rect id="rectangle-9" data-name="rectangle" class="cls-10" width="360" height="190" rx="2" transform="translate(1330 634)"/>
       </g>
-      <text id="Title-3" data-name="Title" class="cls-37" transform="translate(448 353)"><tspan x="0" y="0">Popular now</tspan></text>
+      <text id="Title-3" data-name="Title" class="cls-48" transform="translate(448 353)"><tspan x="0" y="0">Popular now</tspan></text>
       <g id="Group_336" data-name="Group 336">
-        <g class="cls-65" transform="matrix(1, 0, 0, 1, -898, -313)">
-          <path id="Shape_of_water-5" data-name="Shape of water" class="cls-48" d="M0,0H80V117.8H0Z" transform="translate(1346 679)"/>
+        <g class="cls-66" transform="matrix(1, 0, 0, 1, -898, -313)">
+          <path id="Shape_of_water-5" data-name="Shape of water" class="cls-49" d="M0,0H80V117.8H0Z" transform="translate(1346 679)"/>
         </g>
         <g id="Rating-2" data-name="Rating" transform="translate(437 64)">
           <circle id="Ellipse_19-2" data-name="Ellipse 19" class="cls-29" cx="15" cy="15" r="15" transform="translate(73 400)"/>
@@ -626,34 +629,34 @@
         <path id="funny-3" data-name="funny" class="cls-32" d="M0,0H30V30H0Z" transform="translate(440 464)"/>
       </g>
       <g id="Group_337" data-name="Group 337" transform="translate(105)">
-        <g class="cls-64" transform="matrix(1, 0, 0, 1, -1003, -313)">
-          <path id="Shape_of_water-6" data-name="Shape of water" class="cls-49" d="M0,0H80V117.8H0Z" transform="translate(1451 679)"/>
+        <g class="cls-65" transform="matrix(1, 0, 0, 1, -1003, -313)">
+          <path id="Shape_of_water-6" data-name="Shape of water" class="cls-50" d="M0,0H80V117.8H0Z" transform="translate(1451 679)"/>
         </g>
         <g id="Rating-3" data-name="Rating" transform="translate(437 64)">
           <circle id="Ellipse_19-3" data-name="Ellipse 19" class="cls-29" cx="15" cy="15" r="15" transform="translate(73 400)"/>
           <text id="_7.8" data-name="7.8" class="cls-30" transform="translate(79 420)"><tspan x="0" y="0">7.8</tspan></text>
         </g>
-        <path id="funny-4" data-name="funny" class="cls-50" d="M0,0H30V30H0Z" transform="translate(440 464)"/>
+        <path id="funny-4" data-name="funny" class="cls-51" d="M0,0H30V30H0Z" transform="translate(440 464)"/>
       </g>
       <g id="Group_338" data-name="Group 338" transform="translate(210)">
-        <g class="cls-63" transform="matrix(1, 0, 0, 1, -1108, -313)">
-          <path id="Shape_of_water-7" data-name="Shape of water" class="cls-51" d="M0,0H80V117.8H0Z" transform="translate(1556 679)"/>
+        <g class="cls-64" transform="matrix(1, 0, 0, 1, -1108, -313)">
+          <path id="Shape_of_water-7" data-name="Shape of water" class="cls-52" d="M0,0H80V117.8H0Z" transform="translate(1556 679)"/>
         </g>
         <g id="Rating-4" data-name="Rating" transform="translate(437 64)">
           <circle id="Ellipse_19-4" data-name="Ellipse 19" class="cls-29" cx="15" cy="15" r="15" transform="translate(73 400)"/>
           <text id="_6.7" data-name="6.7" class="cls-30" transform="translate(78 420)"><tspan x="0" y="0">6.7</tspan></text>
         </g>
-        <path id="funny-5" data-name="funny" class="cls-52" d="M0,0H30V30H0Z" transform="translate(440 464)"/>
+        <path id="funny-5" data-name="funny" class="cls-53" d="M0,0H30V30H0Z" transform="translate(440 464)"/>
       </g>
       <g id="Group_339" data-name="Group 339" transform="translate(315)">
-        <g class="cls-62" transform="matrix(1, 0, 0, 1, -1213, -313)">
-          <path id="Shape_of_water-8" data-name="Shape of water" class="cls-53" d="M0,0H80V117.8H0Z" transform="translate(1661 679)"/>
+        <g class="cls-63" transform="matrix(1, 0, 0, 1, -1213, -313)">
+          <path id="Shape_of_water-8" data-name="Shape of water" class="cls-54" d="M0,0H80V117.8H0Z" transform="translate(1661 679)"/>
         </g>
         <g id="Rating-5" data-name="Rating" transform="translate(437 64)">
           <circle id="Ellipse_19-5" data-name="Ellipse 19" class="cls-29" cx="15" cy="15" r="15" transform="translate(73 400)"/>
           <text id="_8.3" data-name="8.3" class="cls-30" transform="translate(78 420)"><tspan x="0" y="0">8.3</tspan></text>
         </g>
-        <path id="funny-6" data-name="funny" class="cls-54" d="M0,0H30V30H0Z" transform="translate(440 464)"/>
+        <path id="funny-6" data-name="funny" class="cls-55" d="M0,0H30V30H0Z" transform="translate(440 464)"/>
       </g>
       <g id="View_all-2" data-name="View all" transform="translate(153 48)">
         <text id="NEXT-2" data-name="NEXT" class="cls-38" transform="translate(572 303)"><tspan x="0" y="0">SEE ALL</tspan></text>
@@ -663,58 +666,58 @@
       </g>
     </g>
     <g id="toolbar" transform="translate(1330 1)">
-      <g class="cls-61" transform="matrix(1, 0, 0, 1, -1330, -1)">
-        <rect id="Emotion_toolbar-2" data-name="Emotion toolbar" class="cls-55" width="360" height="60" transform="translate(1330 580)"/>
+      <g class="cls-62" transform="matrix(1, 0, 0, 1, -1330, -1)">
+        <rect id="Emotion_toolbar-2" data-name="Emotion toolbar" class="cls-56" width="360" height="60" transform="translate(1330 580)"/>
       </g>
       <g id="Group_348" data-name="Group 348" transform="translate(-2 -2)">
-        <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-56" transform="translate(13 586)">
+        <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-57" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-7" data-name="funny" class="cls-57" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Funny-8" data-name="Funny" class="cls-58" transform="translate(24 631)"><tspan x="0" y="0">Funny</tspan></text>
+        <path id="funny-7" data-name="funny" class="cls-58" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Funny-8" data-name="Funny" class="cls-59" transform="translate(24 631)"><tspan x="0" y="0">Funny</tspan></text>
       </g>
       <g id="Group_349" data-name="Group 349" transform="translate(69 -2)">
-        <g id="Repeat_Grid_1-2" data-name="Repeat Grid 1" class="cls-56" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-2" data-name="Repeat Grid 1" class="cls-57" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-2" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
         <path id="funny-9" data-name="funny" class="cls-47" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Romantic" class="cls-58" transform="translate(15 631)"><tspan x="0" y="0">Romantic</tspan></text>
+        <text id="Romantic" class="cls-59" transform="translate(15 631)"><tspan x="0" y="0">Romantic</tspan></text>
       </g>
       <g id="Group_350" data-name="Group 350" transform="translate(140 -2)">
-        <g id="Repeat_Grid_1-3" data-name="Repeat Grid 1" class="cls-56" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-3" data-name="Repeat Grid 1" class="cls-57" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-3" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
         <path id="funny-10" data-name="funny" class="cls-32" d="M0,0H30V30H0Z" transform="translate(24.5 589)"/>
-        <text id="Clever" class="cls-58" transform="translate(22 631)"><tspan x="0" y="0">Clever</tspan></text>
+        <text id="Clever" class="cls-59" transform="translate(22 631)"><tspan x="0" y="0">Clever</tspan></text>
       </g>
       <g id="Group_351" data-name="Group 351" transform="translate(211 -2)">
-        <g id="Repeat_Grid_1-4" data-name="Repeat Grid 1" class="cls-56" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-4" data-name="Repeat Grid 1" class="cls-57" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-4" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-11" data-name="funny" class="cls-54" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Cruel" class="cls-58" transform="translate(26 631)"><tspan x="0" y="0">Cruel</tspan></text>
+        <path id="funny-11" data-name="funny" class="cls-55" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Cruel" class="cls-59" transform="translate(26 631)"><tspan x="0" y="0">Cruel</tspan></text>
       </g>
       <g id="Group_352" data-name="Group 352" transform="translate(282 -2)">
-        <g id="Repeat_Grid_1-5" data-name="Repeat Grid 1" class="cls-56" transform="translate(13 586)">
+        <g id="Repeat_Grid_1-5" data-name="Repeat Grid 1" class="cls-57" transform="translate(13 586)">
           <g transform="translate(-13 -586)">
             <rect id="Rectangle_200-5" data-name="Rectangle 200" class="cls-1" width="55" height="50" rx="4" transform="translate(13 586)"/>
           </g>
         </g>
-        <path id="funny-12" data-name="funny" class="cls-59" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
-        <text id="Unreal" class="cls-58" transform="translate(23 631)"><tspan x="0" y="0">Unreal</tspan></text>
+        <path id="funny-12" data-name="funny" class="cls-60" d="M0,0H30V30H0Z" transform="translate(25.5 589)"/>
+        <text id="Unreal" class="cls-59" transform="translate(23 631)"><tspan x="0" y="0">Unreal</tspan></text>
       </g>
     </g>
     <g id="ic_chevron_right-2" data-name="ic_chevron_right" transform="translate(1238 519)">
       <rect id="rectangle-10" data-name="rectangle" class="cls-1" width="25" height="25" transform="translate(433 78)"/>
-      <g class="cls-60" transform="matrix(1, 0, 0, 1, -1238, -519)">
+      <g class="cls-61" transform="matrix(1, 0, 0, 1, -1238, -519)">
         <path id="path-8" data-name="path" class="cls-6" d="M8.6,7.458,10.058,6l6.25,6.25-6.25,6.25L8.6,17.042l4.792-4.792Z" transform="translate(1671.36 597.25)"/>
       </g>
     </g>

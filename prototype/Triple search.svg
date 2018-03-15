@@ -219,10 +219,6 @@
         font-size: 10px;
       }
 
-      .cls-55 {
-        opacity: 0.87;
-      }
-
       .cls-56 {
         filter: url(#path);
       }
