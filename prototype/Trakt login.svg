@@ -18,8 +18,8 @@
         font-weight: 700;
       }
 
-      .cls-3, .cls-5, .cls-7 {
-        font-size: 16px;
+      .cls-15, .cls-3 {
+        font-size: 14px;
       }
 
       .cls-3, .cls-7 {
@@ -32,6 +32,10 @@
 
       .cls-10, .cls-12, .cls-15, .cls-16, .cls-5 {
         fill: #fff;
+      }
+
+      .cls-5, .cls-7 {
+        font-size: 16px;
       }
 
       .cls-6 {
@@ -72,7 +76,6 @@
       }
 
       .cls-15 {
-        font-size: 14px;
         font-family: Roboto-Medium, Roboto;
       }
 
@@ -104,17 +107,17 @@
   </defs>
   <g id="Trakt_login" data-name="Trakt login" class="cls-1">
     <rect class="cls-18" x="6060" width="360" height="640"/>
-    <text id="Track_movies" data-name="Track movies" class="cls-2" transform="translate(6148 142)"><tspan x="0" y="0">Track movies</tspan></text>
-    <text id="Connect_Trakt.tv_to_auto-track_what_you_watch_and_automatically_improve_recommendations." data-name="Connect Trakt.tv to auto-track what you watch and automatically improve recommendations." class="cls-3" transform="translate(6116 349)"><tspan x="15.74" y="16">Connect Trakt.tv to auto-track </tspan><tspan x="1.596" y="36">what you watch and automatically </tspan><tspan x="26.068" y="56">improve recommendations.</tspan></text>
+    <text id="Track_movies" data-name="Track movies" class="cls-2" transform="translate(6148 159)"><tspan x="0" y="0">Track movies</tspan></text>
+    <text id="Connect_Trakt.tv_to_auto-track_what_you_watch_and_automatically_improve_recommendations." data-name="Connect Trakt.tv to auto-track what you watch and automatically improve recommendations." class="cls-3" transform="translate(6116 349)"><tspan x="11.954" y="14">Connect Trakt.tv to auto-track what </tspan><tspan x="7.033" y="32">you watch and automatically improve </tspan><tspan x="65.679" y="50">recommendations.</tspan></text>
     <g id="VK_Button" data-name="VK Button" transform="translate(5919 49)">
       <g class="cls-19" transform="matrix(1, 0, 0, 1, -5919, -49)">
         <rect id="Rectangle_191-2" data-name="Rectangle 191" class="cls-4" width="130" height="46" transform="translate(6175 544)"/>
       </g>
       <text id="Login" class="cls-5" transform="translate(321 524)"><tspan x="-20.808" y="0">Login</tspan></text>
     </g>
-    <path id="_g2w72Ea" class="cls-6" d="M0,0H150V150H0Z" transform="translate(6165 170)"/>
+    <path id="_g2w72Ea" class="cls-6" d="M0,0H150V150H0Z" transform="translate(6165 183)"/>
     <text id="Trakt_works_with_Kodi_Plex_Netflix_VLC_and_many_others._Visit_trakt.tv_for_more_info." data-name="Trakt works with Kodi, Plex, Netflix, VLC and many others.
-Visit trakt.tv for more info." class="cls-3" transform="translate(6115 429)"><tspan x="25.764" y="16">Trakt works with Kodi, Plex, </tspan><tspan x="17.644" y="36">Netflix, VLC and many others.</tspan><tspan x="31.26" y="56">Visit trakt.tv for more info.</tspan></text>
+Visit trakt.tv for more info." class="cls-3" transform="translate(6115 429)"><tspan x="13.381" y="14">Trakt works with Kodi, Plex, Netflix, </tspan><tspan x="55.976" y="32">VLC and many others.</tspan><tspan x="43.04" y="50">Visit trakt.tv for more info.</tspan></text>
     <text id="VISIT_TRAKT.TV" data-name="VISIT TRAKT.TV" class="cls-7" transform="translate(6240 524)"><tspan x="-57.304" y="0">VISIT TRAKT.TV</tspan></text>
     <g id="appbar_dark" transform="translate(6060)">
       <path id="path" class="cls-8" d="M360,0H0V79.173H360Z"/>
