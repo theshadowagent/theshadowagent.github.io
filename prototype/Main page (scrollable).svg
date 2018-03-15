@@ -972,7 +972,7 @@
       </g>
       <g id="Card_title" data-name="Card title">
         <text id="Title-6" data-name="Title" class="cls-24" transform="translate(448 328)"><tspan x="0" y="0">Personal watchlist</tspan></text>
-        <g id="View_all-4" data-name="View all" transform="translate(153 23)">
+        <g id="View_all-4" data-name="View all" transform="translate(153 25)">
           <text id="NEXT-4" data-name="NEXT" class="cls-44" transform="translate(572 303)"><tspan x="0" y="0">SEE ALL</tspan></text>
           <g id="ui_raised_btn_light-4" data-name="ui_raised_btn_light" transform="translate(281 30)">
             <path id="button-4" data-name="button" class="cls-1" d="M1.872,0H86.128A1.939,1.939,0,0,1,88,2V34a1.939,1.939,0,0,1-1.872,2H1.872A1.939,1.939,0,0,1,0,34V2A1.939,1.939,0,0,1,1.872,0Z" transform="translate(270 250)"/>
