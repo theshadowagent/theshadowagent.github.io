@@ -215,7 +215,7 @@
       </g>
       <text id="Facebook" class="cls-22" transform="translate(28 24)"><tspan x="-31.507" y="0">Facebook</tspan></text>
     </g>
-    <g id="View_all" data-name="View all" transform="translate(3915 312)">
+    <g id="View_all" data-name="View all" transform="translate(3919 312)">
       <text id="NEXT" class="cls-23" transform="translate(551 303)"><tspan x="0" y="0">LOGIN OR SIGN UP</tspan></text>
       <g id="ui_raised_btn_light" transform="translate(281 30)">
         <path id="button" class="cls-1" d="M1.872,0H86.128A1.939,1.939,0,0,1,88,2V34a1.939,1.939,0,0,1-1.872,2H1.872A1.939,1.939,0,0,1,0,34V2A1.939,1.939,0,0,1,1.872,0Z" transform="translate(270 250)"/>
