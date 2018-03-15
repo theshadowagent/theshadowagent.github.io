@@ -31,7 +31,7 @@
         opacity: 0.9;
       }
 
-      .cls-11, .cls-17, .cls-6, .cls-7 {
+      .cls-11, .cls-17, .cls-18, .cls-6, .cls-7 {
         fill: #fff;
       }
 
@@ -75,10 +75,6 @@
 
       .cls-16 {
         fill: #f82b00;
-      }
-
-      .cls-18 {
-        fill: #fafafa;
       }
 
       .cls-19 {

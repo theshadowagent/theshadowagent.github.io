@@ -86,14 +86,10 @@
       }
 
       .cls-20 {
-        fill: #fafafa;
-      }
-
-      .cls-21 {
         filter: url(#Rectangle_191-2);
       }
 
-      .cls-22 {
+      .cls-21 {
         filter: url(#Rectangle_191);
       }
     </style>
@@ -119,17 +115,17 @@
     </clipPath>
   </defs>
   <g id="Step_2" data-name="Step 2" class="cls-2">
-    <rect class="cls-20" x="900" width="360" height="640"/>
+    <rect class="cls-8" x="900" width="360" height="640"/>
     <text id="Detect_mood" data-name="Detect mood" class="cls-3" transform="translate(990 135)"><tspan x="0" y="0">Detect mood</tspan></text>
     <text id="Connect_Spotify_or_Last.fm_to_detect_your_mood_based_on_recent_music_playings." data-name="Connect Spotify or Last.fm to detect your mood based on recent music playings." class="cls-4" transform="translate(953 400)"><tspan x="20.736" y="16">Connect Spotify or Last.fm to </tspan><tspan x="3.288" y="36">detect your mood based on recent </tspan><tspan x="71.76" y="56">music playings.</tspan></text>
     <g id="VK_Button" data-name="VK Button" transform="translate(942 487)">
-      <g class="cls-22" transform="matrix(1, 0, 0, 1, -942, -487)">
+      <g class="cls-21" transform="matrix(1, 0, 0, 1, -942, -487)">
         <rect id="Rectangle_191-3" data-name="Rectangle 191" class="cls-5" width="110" height="46" transform="translate(943 487)"/>
       </g>
       <text id="Last.fm" class="cls-6" transform="translate(55 29)"><tspan x="-27.84" y="0">Last.fm</tspan></text>
     </g>
     <g id="Spotify_Button" data-name="Spotify Button" transform="translate(1125 487)">
-      <g class="cls-21" transform="matrix(1, 0, 0, 1, -1125, -487)">
+      <g class="cls-20" transform="matrix(1, 0, 0, 1, -1125, -487)">
         <rect id="Rectangle_191-4" data-name="Rectangle 191" class="cls-7" width="110" height="46" transform="translate(1108 487)"/>
       </g>
       <text id="Spotify" class="cls-6" transform="translate(38 29)"><tspan x="-26.992" y="0">Spotify</tspan></text>
