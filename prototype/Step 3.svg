@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="869 0 360 640">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e0ab00;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Step_3);
+      }
+
+      .cls-19, .cls-20, .cls-21, .cls-3, .cls-4 {
+        fill: rgba(0,0,0,0.87);
+      }
+
+      .cls-3 {
+        font-size: 28px;
+      }
+
+      .cls-10, .cls-19, .cls-20, .cls-3 {
+        font-family: Circular-Bold, Circular;
+        font-weight: 700;
+      }
+
+      .cls-10, .cls-20, .cls-4 {
+        font-size: 16px;
+      }
+
+      .cls-4 {
+        font-family: Circular-Book, Circular;
+      }
+
+      .cls-5 {
+        fill: #d31f27;
+      }
+
+      .cls-6, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-8 {
+        fill: #57bb63;
+      }
+
+      .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-10 {
+        fill: #f82b00;
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+
+      .cls-12 {
+        fill: #92076e;
+        opacity: 0;
+      }
+
+      .cls-13, .cls-17 {
+        opacity: 0.9;
+      }
+
+      .cls-14, .cls-15, .cls-17 {
+        fill: #4e4e4e;
+      }
+
+      .cls-14 {
+        font-size: 14px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-16 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-18 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-19 {
+        font-size: 12px;
+      }
+
+      .cls-21 {
+        opacity: 0.5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_15" data-name="Ellipse 15" class="cls-1" cx="55" cy="55" r="55"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_15-2" data-name="Ellipse 15" class="cls-1" cx="25" cy="25" r="25"/>
+    </clipPath>
+    <clipPath id="clip-Step_3">
+      <rect x="869" width="360" height="640"/>
+    </clipPath>
+  </defs>
+  <g id="Step_3" data-name="Step 3" class="cls-2">
+    <rect class="cls-6" x="869" width="360" height="640"/>
+    <text id="Detect_mood" data-name="Detect mood" class="cls-3" transform="translate(959 129)"><tspan x="0" y="0">Detect mood</tspan></text>
+    <text id="Connect_Spotify_or_Last.fm_account_to_detect_your_mood_based_on_recent_music_playings." data-name="Connect Spotify or Last.fm account to detect your mood based on recent music playings." class="cls-4" transform="translate(922 366)"><tspan x="3.128" y="16">Connect Spotify or Last.fm account </tspan><tspan x="23.016" y="36">to detect your mood based on </tspan><tspan x="50.656" y="56">recent music playings.</tspan></text>
+    <g id="lfm" transform="translate(967 165)">
+      <path id="XMLID_59_" class="cls-5" d="M110,55A55,55,0,1,1,55,0,55,55,0,0,1,110,55Z" transform="translate(0 0)"/>
+      <g id="lastfm" transform="translate(15.123 33.036)">
+        <g id="Group_288" data-name="Group 288">
+          <path id="Path_117" data-name="Path 117" class="cls-6" d="M84.655,63.665c-6.082-1.813-8.247-2.818-8.247-4.826,0-3.349,4.84-4.61,5.389-4.7a7.5,7.5,0,0,1,8.177,4.892l8.275-2.5C95.65,48.311,87.967,44.67,80.5,45.772,72.868,46.9,67.972,52.425,67.972,58.838c0,8.628,8.083,11.11,14.148,12.923,6.382,1.906,8.237,2.585,8.237,4.925,0,1.977-1.173,3.819-4.288,4.642-6.2,1.631-14.3-.659-16.557-4.435a54.76,54.76,0,0,1-3.923-8.363c-3.692-9.673-8.751-22.914-23.3-22.914-7.58,0-21.424,3.67-21.424,24.381,0,8.573,7.335,19.229,21.156,19.229,11.6,0,13.616-4.235,14.077-4.986l-3.785-7.407a13.265,13.265,0,0,1-10.292,4.839c-10.89,0-12.486-11.546-12.486-11.676,0-10.752,4.6-15.92,12.754-15.92,7.936,0,11.159,6.9,15.177,17.412a61.365,61.365,0,0,0,4.559,9.672c3.585,6,11.324,7.933,19.092,7.933a30.45,30.45,0,0,0,7.207-.424c6.954-1.841,10.692-6.057,10.692-11.985C99.018,67.662,90.9,65.531,84.655,63.665Z" transform="translate(-20.866 -45.58)"/>
+        </g>
+      </g>
+    </g>
+    <g id="imdb" transform="translate(1022 220)">
+      <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-7" transform="translate(0 0)">
+        <g id="spotify">
+          <g id="Spotify-2" data-name="Spotify">
+            <path id="Path_115" data-name="Path 115" class="cls-8" d="M55,110A55,55,0,1,0,0,55,55,55,0,0,0,55,110Z"/>
+            <path id="Path_116" data-name="Path 116" class="cls-9" d="M79.742,89a2.279,2.279,0,0,1-1.153-.356s-.464-.3-1.408-.811-2.338-1.226-4.074-1.971a49.967,49.967,0,0,0-13.745-3.8q-2.5-.292-4.8-.364a57.412,57.412,0,0,0-14.52,1.328c-.739.172-1.079.277-1.081.277a2.316,2.316,0,0,1-2.879-1.6,2.368,2.368,0,0,1,1.574-2.929,58.387,58.387,0,0,1,17.052-1.792c1.651.057,3.388.183,5.182.394a55.375,55.375,0,0,1,21.159,7.266,2.383,2.383,0,0,1,.736,3.253A2.294,2.294,0,0,1,79.742,89ZM88.18,75.088a2.865,2.865,0,0,1-4,.932s-.1-.067-.378-.229-.692-.4-1.232-.7c-1.088-.593-2.684-1.41-4.683-2.272a57.461,57.461,0,0,0-15.807-4.361c-1.909-.225-3.755-.359-5.52-.417a65.944,65.944,0,0,0-16.7,1.525c-.846.2-1.23.314-1.232.318a2.9,2.9,0,0,1-3.6-2.007A2.947,2.947,0,0,1,37,64.224a67.243,67.243,0,0,1,19.75-2.076c1.911.063,3.917.206,6,.452a63.979,63.979,0,0,1,24.519,8.423A2.98,2.98,0,0,1,88.18,75.088ZM95.036,62.1a3.471,3.471,0,0,1-3.068,1.658,3.394,3.394,0,0,1-1.727-.539s-.125-.08-.449-.274-.809-.473-1.451-.823c-1.279-.693-3.162-1.654-5.516-2.672A67.828,67.828,0,0,0,64.2,54.311c-2.253-.264-4.431-.42-6.508-.487a75.256,75.256,0,0,0-20.8,2.073c-.245.065-.331.091-.331.091a3.474,3.474,0,0,1-4.316-2.4,3.548,3.548,0,0,1,2.363-4.393,79.814,79.814,0,0,1,23.313-2.444c2.257.074,4.622.24,7.075.53A75.487,75.487,0,0,1,93.935,57.22,3.581,3.581,0,0,1,95.036,62.1Z" transform="translate(-8.836 -12.852)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Skip" transform="translate(327 316)">
+      <text id="SKIP-2" data-name="SKIP" class="cls-10" transform="translate(578 304)"><tspan x="0" y="0">SKIP</tspan></text>
+      <g id="ui_raised_btn_light" transform="translate(281 30)">
+        <path id="button" class="cls-11" d="M1.872,0H86.128A1.939,1.939,0,0,1,88,2V34a1.939,1.939,0,0,1-1.872,2H1.872A1.939,1.939,0,0,1,0,34V2A1.939,1.939,0,0,1,1.872,0Z" transform="translate(270 250)"/>
+      </g>
+    </g>
+    <g id="Next" transform="translate(581 316)">
+      <text id="NEXT-2" data-name="NEXT" class="cls-10" transform="translate(568.5 304)"><tspan x="0" y="0">FINISH</tspan></text>
+      <g id="ui_raised_btn_light-2" data-name="ui_raised_btn_light" transform="translate(281 30)">
+        <path id="button-2" data-name="button" class="cls-11" d="M1.872,0H86.128A1.939,1.939,0,0,1,88,2V34a1.939,1.939,0,0,1-1.872,2H1.872A1.939,1.939,0,0,1,0,34V2A1.939,1.939,0,0,1,1.872,0Z" transform="translate(270 250)"/>
+      </g>
+    </g>
+    <g id="sysbar_dark" transform="translate(869)">
+      <rect id="rectangle" class="cls-12" width="360" height="24"/>
+      <g id="sysbar_icons">
+        <rect id="sysbar" class="cls-11" width="118" height="24" transform="translate(242)"/>
+        <g id="Group_284" data-name="Group 284" class="cls-13" transform="translate(256.732 4)">
+          <rect id="Rectangle_156" data-name="Rectangle 156" class="cls-11" width="40" height="16" transform="translate(54.8 1)"/>
+          <text id="_12:30" data-name="12:30" class="cls-14" transform="translate(59.268 13)"><tspan x="0" y="0">12:30</tspan></text>
+        </g>
+        <g id="sysbar_wifi" data-name="sysbar wifi" transform="translate(257.19 4)">
+          <g id="Group_285" data-name="Group 285" class="cls-13">
+            <path id="Path_78" data-name="Path 78" class="cls-15" d="M8.8,15,17.6,4.1A14.04,14.04,0,0,0,0,4.1L8.8,15Z"/>
+          </g>
+          <rect id="Rectangle_157" data-name="Rectangle 157" class="cls-16" width="16" height="16" transform="translate(0.8)"/>
+        </g>
+        <g id="sysbar_status" data-name="sysbar status" transform="translate(257.2 4)">
+          <path id="Path_79" data-name="Path 79" class="cls-17" d="M19.8,15h14V1Z"/>
+          <rect id="Rectangle_158" data-name="Rectangle 158" class="cls-11" width="16" height="16" transform="translate(18.8)"/>
+        </g>
+        <g id="sysbar_battery" data-name="sysbar battery" transform="translate(257.2 4)">
+          <rect id="Rectangle_159" data-name="Rectangle 159" class="cls-11" width="16" height="16" transform="translate(38.8)"/>
+          <path id="Path_80" data-name="Path 80" class="cls-17" d="M48.8,2V1h-3V2h-3V15h9V2Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="choices_slider" data-name="choices slider" transform="translate(872 -13.605)">
+      <g id="Group_363" data-name="Group 363" transform="translate(29 508.323)">
+        <g id="Spotify-3" data-name="Spotify" transform="translate(0 -0.718)">
+          <g id="Mask_Group_1-2" data-name="Mask Group 1" class="cls-18">
+            <g id="spotify-4" data-name="spotify">
+              <g id="Spotify-5" data-name="Spotify">
+                <path id="Path_115-2" data-name="Path 115" class="cls-8" d="M25,50A25,25,0,1,0,0,25,25,25,0,0,0,25,50Z"/>
+                <path id="Path_116-2" data-name="Path 116" class="cls-9" d="M53.758,65.929a1.036,1.036,0,0,1-.524-.162s-.211-.135-.64-.369-1.063-.557-1.852-.9a22.712,22.712,0,0,0-6.248-1.727q-1.136-.133-2.182-.166a26.1,26.1,0,0,0-6.6.6c-.336.078-.491.126-.491.126a1.053,1.053,0,0,1-1.308-.728,1.076,1.076,0,0,1,.715-1.331,26.539,26.539,0,0,1,7.751-.815c.751.026,1.54.083,2.356.179a25.171,25.171,0,0,1,9.618,3.3,1.083,1.083,0,0,1,.335,1.479A1.043,1.043,0,0,1,53.758,65.929ZM57.594,59.6a1.3,1.3,0,0,1-1.816.424s-.048-.031-.172-.1-.314-.183-.56-.317c-.495-.27-1.22-.641-2.129-1.033a26.118,26.118,0,0,0-7.185-1.982c-.868-.1-1.707-.163-2.509-.19a29.975,29.975,0,0,0-7.592.693c-.385.091-.559.143-.56.144a1.317,1.317,0,0,1-1.635-.912,1.34,1.34,0,0,1,.895-1.662,30.565,30.565,0,0,1,8.977-.944c.869.029,1.78.094,2.725.206a29.081,29.081,0,0,1,11.145,3.829A1.354,1.354,0,0,1,57.594,59.6Zm3.116-5.9a1.578,1.578,0,0,1-1.395.753,1.543,1.543,0,0,1-.785-.245s-.057-.037-.2-.124-.368-.215-.66-.374c-.582-.315-1.437-.752-2.507-1.215a30.831,30.831,0,0,0-8.465-2.337c-1.024-.12-2.014-.191-2.958-.222a34.207,34.207,0,0,0-9.455.942l-.151.041a1.579,1.579,0,0,1-1.962-1.093,1.613,1.613,0,0,1,1.074-2,36.279,36.279,0,0,1,10.6-1.111c1.026.034,2.1.109,3.216.241a34.312,34.312,0,0,1,13.154,4.52A1.628,1.628,0,0,1,60.71,53.7Z" transform="translate(-21.528 -31.314)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="Spotify-6" data-name="Spotify" class="cls-19" transform="translate(25 69.282)"><tspan x="-20.244" y="0">Spotify</tspan></text>
+        <g id="lfm-2" data-name="lfm" transform="translate(66 -0.718)">
+          <path id="XMLID_59_2" data-name="XMLID_59_" class="cls-5" d="M50,25A25,25,0,1,1,25,0,25,25,0,0,1,50,25Z" transform="translate(0 0)"/>
+          <g id="lastfm-2" data-name="lastfm" transform="translate(6.874 15.016)">
+            <g id="Group_288-2" data-name="Group 288">
+              <path id="Path_117-2" data-name="Path 117" class="cls-6" d="M49.861,53.8c-2.764-.824-3.749-1.281-3.749-2.194,0-1.522,2.2-2.1,2.45-2.135A3.41,3.41,0,0,1,52.278,51.7l3.761-1.138a7.11,7.11,0,0,0-8.066-4.891c-3.471.511-5.7,3.024-5.7,5.939,0,3.922,3.674,5.05,6.431,5.874,2.9.866,3.744,1.175,3.744,2.239,0,.9-.533,1.736-1.949,2.11-2.817.742-6.5-.3-7.526-2.016a24.891,24.891,0,0,1-1.783-3.8C39.516,51.615,37.216,45.6,30.6,45.6c-3.445,0-9.738,1.668-9.738,11.082,0,3.9,3.334,8.741,9.616,8.741,5.272,0,6.189-1.925,6.4-2.266L35.16,59.787a6.029,6.029,0,0,1-4.678,2.2c-4.95,0-5.675-5.248-5.675-5.307,0-4.887,2.089-7.237,5.8-7.237,3.607,0,5.072,3.137,6.9,7.914a27.893,27.893,0,0,0,2.072,4.4c1.63,2.726,5.147,3.606,8.678,3.606a13.841,13.841,0,0,0,3.276-.193c3.161-.837,4.86-2.753,4.86-5.448C56.39,55.617,52.7,54.648,49.861,53.8Z" transform="translate(-20.866 -45.58)"/>
+            </g>
+          </g>
+        </g>
+        <text id="Last.fm" class="cls-19" transform="translate(70 69.282)"><tspan x="0" y="0">Last.fm</tspan></text>
+      </g>
+      <text id="Login_to_a_music_service" data-name="Login to a music service" class="cls-20" transform="translate(21 489.605)"><tspan x="0" y="0">Login to a music service</tspan></text>
+    </g>
+    <g id="Viewpager" transform="translate(863 1)">
+      <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-21" cx="4" cy="4" r="4" transform="translate(169 609)"/>
+      <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-21" cx="4" cy="4" r="4" transform="translate(182 609)"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" class="cls-5" cx="4" cy="4" r="4" transform="translate(195 609)"/>
+    </g>
+  </g>
+</svg>
