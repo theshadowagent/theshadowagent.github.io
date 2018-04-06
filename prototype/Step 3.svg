@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="869 0 360 640">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="460 0 360 640">
   <defs>
     <style>
       .cls-1 {
@@ -100,14 +100,14 @@
       <circle id="Ellipse_15-2" data-name="Ellipse 15" class="cls-1" cx="25" cy="25" r="25"/>
     </clipPath>
     <clipPath id="clip-Step_3">
-      <rect x="869" width="360" height="640"/>
+      <rect x="460" width="360" height="640"/>
     </clipPath>
   </defs>
   <g id="Step_3" data-name="Step 3" class="cls-2">
-    <rect class="cls-6" x="869" width="360" height="640"/>
-    <text id="Detect_mood" data-name="Detect mood" class="cls-3" transform="translate(959 129)"><tspan x="0" y="0">Detect mood</tspan></text>
-    <text id="Connect_Spotify_or_Last.fm_account_to_detect_your_mood_based_on_recent_music_playings." data-name="Connect Spotify or Last.fm account to detect your mood based on recent music playings." class="cls-4" transform="translate(922 366)"><tspan x="3.128" y="16">Connect Spotify or Last.fm account </tspan><tspan x="23.016" y="36">to detect your mood based on </tspan><tspan x="50.656" y="56">recent music playings.</tspan></text>
-    <g id="lfm" transform="translate(967 165)">
+    <rect class="cls-6" x="460" width="360" height="640"/>
+    <text id="Detect_mood" data-name="Detect mood" class="cls-3" transform="translate(550 129)"><tspan x="0" y="0">Detect mood</tspan></text>
+    <text id="Connect_Spotify_or_Last.fm_account_to_detect_your_mood_based_on_recent_music_playings." data-name="Connect Spotify or Last.fm account to detect your mood based on recent music playings." class="cls-4" transform="translate(513 366)"><tspan x="3.128" y="16">Connect Spotify or Last.fm account </tspan><tspan x="23.016" y="36">to detect your mood based on </tspan><tspan x="50.656" y="56">recent music playings.</tspan></text>
+    <g id="lfm" transform="translate(558 165)">
       <path id="XMLID_59_" class="cls-5" d="M110,55A55,55,0,1,1,55,0,55,55,0,0,1,110,55Z" transform="translate(0 0)"/>
       <g id="lastfm" transform="translate(15.123 33.036)">
         <g id="Group_288" data-name="Group 288">
@@ -115,7 +115,7 @@
         </g>
       </g>
     </g>
-    <g id="imdb" transform="translate(1022 220)">
+    <g id="imdb" transform="translate(613 220)">
       <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-7" transform="translate(0 0)">
         <g id="spotify">
           <g id="Spotify-2" data-name="Spotify">
@@ -125,19 +125,19 @@
         </g>
       </g>
     </g>
-    <g id="Skip" transform="translate(327 316)">
+    <g id="Skip" transform="translate(-82 316)">
       <text id="SKIP-2" data-name="SKIP" class="cls-10" transform="translate(578 304)"><tspan x="0" y="0">SKIP</tspan></text>
       <g id="ui_raised_btn_light" transform="translate(281 30)">
         <path id="button" class="cls-11" d="M1.872,0H86.128A1.939,1.939,0,0,1,88,2V34a1.939,1.939,0,0,1-1.872,2H1.872A1.939,1.939,0,0,1,0,34V2A1.939,1.939,0,0,1,1.872,0Z" transform="translate(270 250)"/>
       </g>
     </g>
-    <g id="Next" transform="translate(581 316)">
+    <g id="Next" transform="translate(172 316)">
       <text id="NEXT-2" data-name="NEXT" class="cls-10" transform="translate(568.5 304)"><tspan x="0" y="0">FINISH</tspan></text>
       <g id="ui_raised_btn_light-2" data-name="ui_raised_btn_light" transform="translate(281 30)">
         <path id="button-2" data-name="button" class="cls-11" d="M1.872,0H86.128A1.939,1.939,0,0,1,88,2V34a1.939,1.939,0,0,1-1.872,2H1.872A1.939,1.939,0,0,1,0,34V2A1.939,1.939,0,0,1,1.872,0Z" transform="translate(270 250)"/>
       </g>
     </g>
-    <g id="sysbar_dark" transform="translate(869)">
+    <g id="sysbar_dark" transform="translate(460)">
       <rect id="rectangle" class="cls-12" width="360" height="24"/>
       <g id="sysbar_icons">
         <rect id="sysbar" class="cls-11" width="118" height="24" transform="translate(242)"/>
@@ -161,7 +161,7 @@
         </g>
       </g>
     </g>
-    <g id="choices_slider" data-name="choices slider" transform="translate(872 -13.605)">
+    <g id="choices_slider" data-name="choices slider" transform="translate(463 -13.605)">
       <g id="Group_363" data-name="Group 363" transform="translate(29 508.323)">
         <g id="Spotify-3" data-name="Spotify" transform="translate(0 -0.718)">
           <g id="Mask_Group_1-2" data-name="Mask Group 1" class="cls-18">
@@ -186,7 +186,7 @@
       </g>
       <text id="Login_to_a_music_service" data-name="Login to a music service" class="cls-20" transform="translate(21 489.605)"><tspan x="0" y="0">Login to a music service</tspan></text>
     </g>
-    <g id="Viewpager" transform="translate(863 1)">
+    <g id="Viewpager" transform="translate(454 1)">
       <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-21" cx="4" cy="4" r="4" transform="translate(169 609)"/>
       <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-21" cx="4" cy="4" r="4" transform="translate(182 609)"/>
       <circle id="Ellipse_24" data-name="Ellipse 24" class="cls-5" cx="4" cy="4" r="4" transform="translate(195 609)"/>
