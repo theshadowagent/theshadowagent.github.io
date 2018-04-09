@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="869 0 360 640">
   <defs>
     <style>
+        @import url('main.css');
+
       .cls-1, .cls-10, .cls-12, .cls-16, .cls-18, .cls-30, .cls-31, .cls-36, .cls-38, .cls-40, .cls-8 {
         fill: #fff;
       }
